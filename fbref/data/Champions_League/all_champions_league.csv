@@ -1,0 +1,732 @@
+,Round,Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,Match Report,Notes,Team1,Team2,Result
+0,Group stage,1.0,Tue,9/17/2019,18:55 (19:55),Lyon fr,1.6,1–1,1.0,ru Zenit,"47,201",Groupama Stadium,Michael Oliver,Match Report,,1,1,0
+1,Group stage,1.0,Tue,9/17/2019,18:55 (19:55),Inter it,1.4,1–1,1.0,cz Slavia Prague,"50,128",Stadio Giuseppe Meazza,Ruddy Buquet,Match Report,,1,1,0
+2,Group stage,1.0,Tue,9/17/2019,20:00 (22:00),Chelsea eng,2.8,0–1,1.0,es Valencia,"39,469",Stamford Bridge,Cüneyt Çakιr,Match Report,,0,1,2
+3,Group stage,1.0,Tue,9/17/2019,20:00 (22:00),Benfica pt,1.8,1–2,1.0,de RB Leipzig,"46,460",Estádio do Sport Lisboa e Benfica,Tasos Sidiropoulos,Match Report,,1,2,2
+4,Group stage,1.0,Tue,9/17/2019,21:00 (22:00),Dortmund de,3.4,0–0,0.4,es Barcelona,"66,099",Signal Iduna Park,Ovidiu Hațegan,Match Report,,0,0,0
+5,Group stage,1.0,Tue,9/17/2019,21:00 (22:00),RB Salzburg at,4.3,6–2,0.7,be Genk,"29,520",Red Bull Arena,Felix Zwayer,Match Report,,6,2,1
+6,Group stage,1.0,Tue,9/17/2019,21:00 (22:00),Ajax nl,1.5,3–0,2.0,fr Lille,"51,441",Johan Cruyff ArenA,Srđan Jovanović,Match Report,,3,0,1
+7,Group stage,1.0,Tue,9/17/2019,21:00 (22:00),Napoli it,1.8,2–0,0.7,eng Liverpool,"38,878",Stadio San Paolo,Felix Brych,Match Report,,2,0,1
+8,Group stage,1.0,Wed,9/18/2019,18:55 (19:55),Club Brugge be,1.7,0–0,0.6,tr Galatasaray,"26,616",Jan Breydelstadion,Slavko Vinčič,Match Report,,0,0,0
+9,Group stage,1.0,Wed,9/18/2019,19:55,Olympiacos gr,1.7,2–2,1.7,eng Tottenham,"31,001",Stadio Georgios Karaiskáki,Gianluca Rocchi,Match Report,,2,2,0
+10,Group stage,1.0,Wed,9/18/2019,21:00 (22:00),Atlético Madrid es,2.3,2–2,1.1,it Juventus,"66,283",Estadio Wanda Metropolitano,Danny Makkelie,Match Report,,2,2,0
+11,Group stage,1.0,Wed,9/18/2019,21:00 (22:00),Paris S-G fr,1.7,3–0,0.6,es Real Madrid,"46,361",Parc des Princes,Anthony Taylor,Match Report,,3,0,1
+12,Group stage,1.0,Wed,9/18/2019,21:00 (22:00),Bayern Munich de,4.3,3–0,0.3,rs Red Star,"70,000",Allianz Arena,Bobby Madden,Match Report,,3,0,1
+13,Group stage,1.0,Wed,9/18/2019,21:00 (22:00),Dinamo Zagreb hr,2.7,4–0,1.8,it Atalanta,"28,863",Stadion Maksimir,Jesús Gil,Match Report,,4,0,1
+14,Group stage,1.0,Wed,9/18/2019,21:00 (22:00),Leverkusen de,1.5,1–2,0.9,ru Loko Moscow,"26,592",BayArena,Paweł Raczkowski,Match Report,,1,2,2
+15,Group stage,1.0,Wed,9/18/2019,22:00,Shakhtar ua,0.9,0–3,2.5,eng Manchester City,"36,675",Oblasny SportKomplex Metalist,Artur Soares Dias,Match Report,,0,3,2
+17,Group stage,2.0,Tue,10/1/2019,18:55 (19:55),Atalanta it,2.5,1–2,1.5,ua Shakhtar,"26,022",Stadio Giuseppe Meazza,Tobias Stieler,Match Report,,1,2,2
+18,Group stage,2.0,Tue,10/1/2019,18:55 (19:55),Real Madrid es,2.3,2–2,1.4,be Club Brugge,"65,112",Estadio Santiago Bernabéu,Georgi Kabakov,Match Report,,2,2,0
+19,Group stage,2.0,Tue,10/1/2019,20:00 (22:00),Manchester City eng,3.6,2–0,0.1,hr Dinamo Zagreb,"49,046",Etihad Stadium,Serdar Gözübüyük,Match Report,,2,0,1
+20,Group stage,2.0,Tue,10/1/2019,20:00 (22:00),Tottenham eng,1.9,2–7,1.3,de Bayern Munich,"60,127",Tottenham Hotspur Stadium,Clément Turpin,Match Report,,2,7,2
+21,Group stage,2.0,Tue,10/1/2019,21:00 (22:00),Juventus it,1.2,3–0,0.5,de Leverkusen,"34,525",Allianz Stadium,William Collum,Match Report,,3,0,1
+22,Group stage,2.0,Tue,10/1/2019,21:00 (22:00),Red Star rs,1.3,3–1,0.9,gr Olympiacos,"43,291",Stadion Rajko Mitić,Benoît Bastien,Match Report,,3,1,1
+23,Group stage,2.0,Tue,10/1/2019,22:00,Loko Moscow ru,1.1,0–2,2.9,es Atlético Madrid,"27,051",RZD Arena,Orel Grinfeeld,Match Report,,0,2,2
+24,Group stage,2.0,Tue,10/1/2019,22:00,Galatasaray tr,0.5,0–1,2.6,fr Paris S-G,"46,532",Türk Telekom Arena,Szymon Marciniak,Match Report,,0,1,2
+25,Group stage,2.0,Wed,10/2/2019,18:55 (19:55),Genk be,0.7,0–0,3.2,it Napoli,"19,962",Luminus Arena,István Kovács,Match Report,,0,0,0
+26,Group stage,2.0,Wed,10/2/2019,18:55 (19:55),Slavia Prague cz,1.4,0–2,0.8,de Dortmund,"19,370",Sinobo Stadium,Björn Kuipers,Match Report,,0,2,2
+27,Group stage,2.0,Wed,10/2/2019,20:00 (22:00),Liverpool eng,2.5,4–3,1.6,at RB Salzburg,"52,243",Anfield,Andreas Ekberg,Match Report,,4,3,1
+28,Group stage,2.0,Wed,10/2/2019,21:00 (22:00),Barcelona es,1.5,2–1,1.1,it Inter,"86,141",Camp Nou,Damir Skomina,Match Report,,2,1,1
+29,Group stage,2.0,Wed,10/2/2019,21:00 (22:00),RB Leipzig de,1.9,0–2,1.5,fr Lyon,"40,194",Red Bull Arena,Antonio Matéu Lahoz,Match Report,,0,2,2
+30,Group stage,2.0,Wed,10/2/2019,21:00 (22:00),Lille fr,0.6,1–2,1.4,eng Chelsea,"48,523",Stade Pierre-Mauroy,Aliaksei Kulbakou,Match Report,,1,2,2
+31,Group stage,2.0,Wed,10/2/2019,21:00 (22:00),Valencia es,2.0,0–3,1.7,nl Ajax,"44,659",Estadio de Mestalla,Daniele Orsato,Match Report,,0,3,2
+32,Group stage,2.0,Wed,10/2/2019,22:00,Zenit ru,2.1,3–1,1.2,pt Benfica,"51,683",Gazprom Arena,Carlos del Cerro,Match Report,,3,1,1
+34,Group stage,3.0,Tue,10/22/2019,18:55 (19:55),Atlético Madrid es,0.8,1–0,0.5,de Leverkusen,"56,776",Estadio Wanda Metropolitano,Artur Soares Dias,Match Report,,1,0,1
+35,Group stage,3.0,Tue,10/22/2019,19:55,Shakhtar ua,1.5,2–2,2.1,hr Dinamo Zagreb,"21,526",Oblasny SportKomplex Metalist,Antonio Matéu Lahoz,Match Report,,2,2,0
+36,Group stage,3.0,Tue,10/22/2019,20:00 (22:00),Tottenham eng,3.7,5–0,0.6,rs Red Star,"51,743",Tottenham Hotspur Stadium,Marco Guida,Match Report,,5,0,1
+37,Group stage,3.0,Tue,10/22/2019,20:00 (22:00),Manchester City eng,4.2,5–1,1.8,it Atalanta,"49,308",Etihad Stadium,Orel Grinfeeld,Match Report,,5,1,1
+38,Group stage,3.0,Tue,10/22/2019,21:00 (22:00),Club Brugge be,0.3,0–5,3.5,fr Paris S-G,"26,946",Jan Breydelstadion,Daniel Siebert,Match Report,,0,5,2
+39,Group stage,3.0,Tue,10/22/2019,21:00 (22:00),Juventus it,2.4,2–1,0.7,ru Loko Moscow,"38,547",Allianz Stadium,Tasos Sidiropoulos,Match Report,,2,1,1
+40,Group stage,3.0,Tue,10/22/2019,22:00,Olympiacos gr,0.5,2–3,2.6,de Bayern Munich,"31,670",Stadio Georgios Karaiskáki,Danny Makkelie,Match Report,,2,3,2
+41,Group stage,3.0,Tue,10/22/2019,22:00,Galatasaray tr,1.2,0–1,2.4,es Real Madrid,"48,886",Türk Telekom Arena,Daniele Orsato,Match Report,,0,1,2
+42,Group stage,3.0,Wed,10/23/2019,18:55 (19:55),RB Leipzig de,2.2,2–1,0.7,ru Zenit,"41,058",Red Bull Arena,Ali Palabıyık,Match Report,,2,1,1
+43,Group stage,3.0,Wed,10/23/2019,18:55 (19:55),Ajax nl,0.5,0–1,1.6,eng Chelsea,"52,482",Johan Cruyff ArenA,Ovidiu Hațegan,Match Report,,0,1,2
+44,Group stage,3.0,Wed,10/23/2019,20:00 (22:00),Benfica pt,0.5,2–1,1.5,fr Lyon,"53,035",Estádio do Sport Lisboa e Benfica,Ivan Kružliak,Match Report,,2,1,1
+45,Group stage,3.0,Wed,10/23/2019,21:00 (22:00),Inter it,2.1,2–0,0.4,de Dortmund,"65,673",Stadio Giuseppe Meazza,Anthony Taylor,Match Report,,2,0,1
+46,Group stage,3.0,Wed,10/23/2019,21:00 (22:00),RB Salzburg at,2.7,2–3,0.9,it Napoli,"29,520",Red Bull Arena,Clément Turpin,Match Report,,2,3,2
+47,Group stage,3.0,Wed,10/23/2019,21:00 (22:00),Lille fr,1.9,1–1,0.6,es Valencia,"47,488",Stade Pierre-Mauroy,Deniz Aytekin,Match Report,,1,1,0
+48,Group stage,3.0,Wed,10/23/2019,21:00 (22:00),Genk be,1.3,1–4,2.5,eng Liverpool,"19,626",Luminus Arena,Slavko Vinčič,Match Report,,1,4,2
+49,Group stage,3.0,Wed,10/23/2019,21:00 (22:00),Slavia Prague cz,1.5,1–2,2.5,es Barcelona,"19,170",Sinobo Stadium,Bobby Madden,Match Report,,1,2,2
+51,Group stage,4.0,Tue,11/5/2019,18:55 (20:55),Barcelona es,2.3,0–0,0.3,cz Slavia Prague,"67,023",Camp Nou,Michael Oliver,Match Report,,0,0,0
+52,Group stage,4.0,Tue,11/5/2019,20:00 (23:00),Liverpool eng,2.3,2–1,0.7,be Genk,"52,611",Anfield,Ivan Kružliak,Match Report,,2,1,1
+53,Group stage,4.0,Tue,11/5/2019,20:00 (23:00),Chelsea eng,4.8,4–4,1.0,nl Ajax,"39,132",Stamford Bridge,Gianluca Rocchi,Match Report,,4,4,0
+54,Group stage,4.0,Tue,11/5/2019,20:55,Zenit ru,1.2,0–2,1.4,de RB Leipzig,"50,452",Gazprom Arena,Orel Grinfeeld,Match Report,,0,2,2
+55,Group stage,4.0,Tue,11/5/2019,21:00 (23:00),Valencia es,2.3,4–1,1.5,fr Lille,"38,252",Estadio de Mestalla,Sergey Karasev,Match Report,,4,1,1
+56,Group stage,4.0,Tue,11/5/2019,21:00 (23:00),Napoli it,2.7,1–1,1.5,at RB Salzburg,"32,862",Stadio San Paolo,Szymon Marciniak,Match Report,,1,1,0
+57,Group stage,4.0,Tue,11/5/2019,21:00 (23:00),Dortmund de,3.5,3–2,1.4,it Inter,"66,099",Signal Iduna Park,Danny Makkelie,Match Report,,3,2,1
+58,Group stage,4.0,Tue,11/5/2019,21:00 (23:00),Lyon fr,1.4,3–1,1.3,pt Benfica,"51,077",Groupama Stadium,Björn Kuipers,Match Report,,3,1,1
+59,Group stage,4.0,Wed,11/6/2019,18:55 (20:55),Bayern Munich de,3.3,2–0,0.2,gr Olympiacos,"63,646",Allianz Arena,Paweł Raczkowski,Match Report,,2,0,1
+60,Group stage,4.0,Wed,11/6/2019,20:55,Loko Moscow ru,2.4,1–2,2.4,it Juventus,"26,862",RZD Arena,Ruddy Buquet,Match Report,,1,2,2
+61,Group stage,4.0,Wed,11/6/2019,21:00 (23:00),Atalanta it,0.7,1–1,2.0,eng Manchester City,"34,326",Stadio Giuseppe Meazza,Aliaksei Kulbakou,Match Report,,1,1,0
+62,Group stage,4.0,Wed,11/6/2019,21:00 (23:00),Leverkusen de,1.3,2–1,2.0,es Atlético Madrid,"28,160",BayArena,Damir Skomina,Match Report,,2,1,1
+63,Group stage,4.0,Wed,11/6/2019,21:00 (23:00),Paris S-G fr,1.9,1–0,1.8,be Club Brugge,"47,418",Parc des Princes,Bobby Madden,Match Report,,1,0,1
+64,Group stage,4.0,Wed,11/6/2019,21:00 (23:00),Real Madrid es,4.2,6–0,0.6,tr Galatasaray,"65,492",Estadio Santiago Bernabéu,Felix Zwayer,Match Report,,6,0,1
+65,Group stage,4.0,Wed,11/6/2019,21:00 (23:00),Red Star rs,0.5,0–4,2.5,eng Tottenham,"42,381",Stadion Rajko Mitić,Carlos del Cerro,Match Report,,0,4,2
+66,Group stage,4.0,Wed,11/6/2019,21:00 (23:00),Dinamo Zagreb hr,2.0,3–3,2.7,ua Shakhtar,"28,316",Stadion Maksimir,Felix Brych,Match Report,,3,3,0
+68,Group stage,5.0,Tue,11/26/2019,20:00 (23:00),Manchester City eng,1.2,1–1,1.0,ua Shakhtar,"52,020",Etihad Stadium,Slavko Vinčič,Match Report,,1,1,0
+69,Group stage,5.0,Tue,11/26/2019,20:00 (23:00),Tottenham eng,2.2,4–2,1.2,gr Olympiacos,"57,024",Tottenham Hotspur Stadium,Georgi Kabakov,Match Report,,4,2,1
+70,Group stage,5.0,Tue,11/26/2019,20:55,Galatasaray tr,0.9,1–1,1.1,be Club Brugge,"34,500",Türk Telekom Arena,Ivan Kružliak,Match Report,,1,1,0
+71,Group stage,5.0,Tue,11/26/2019,20:55,Loko Moscow ru,1.0,0–2,0.7,de Leverkusen,"25,757",RZD Arena,Michael Oliver,Match Report,,0,2,2
+72,Group stage,5.0,Tue,11/26/2019,21:00 (23:00),Real Madrid es,3.9,2–2,2.4,fr Paris S-G,"75,534",Estadio Santiago Bernabéu,Artur Soares Dias,Match Report,,2,2,0
+73,Group stage,5.0,Tue,11/26/2019,21:00 (23:00),Red Star rs,0.2,0–6,4.9,de Bayern Munich,"44,118",Stadion Rajko Mitić,Björn Kuipers,Match Report,,0,6,2
+74,Group stage,5.0,Tue,11/26/2019,21:00 (23:00),Juventus it,0.4,1–0,0.7,es Atlético Madrid,"40,486",Allianz Stadium,Anthony Taylor,Match Report,,1,0,1
+75,Group stage,5.0,Tue,11/26/2019,21:00 (23:00),Atalanta it,3.0,2–0,0.3,hr Dinamo Zagreb,"26,496",Stadio Giuseppe Meazza,Sergey Karasev,Match Report,,2,0,1
+76,Group stage,5.0,Wed,11/27/2019,18:55 (20:55),Valencia es,3.1,2–2,2.1,eng Chelsea,"43,486",Estadio de Mestalla,Felix Zwayer,Match Report,,2,2,0
+77,Group stage,5.0,Wed,11/27/2019,20:00 (23:00),Liverpool eng,0.8,1–1,0.5,it Napoli,"52,128",Anfield,Carlos del Cerro,Match Report,,1,1,0
+78,Group stage,5.0,Wed,11/27/2019,20:55,Zenit ru,0.9,2–0,0.6,fr Lyon,"51,183",Gazprom Arena,Daniele Orsato,Match Report,,2,0,1
+79,Group stage,5.0,Wed,11/27/2019,21:00 (23:00),Slavia Prague cz,2.4,1–3,2.3,it Inter,"19,370",Sinobo Stadium,Szymon Marciniak,Match Report,,1,3,2
+80,Group stage,5.0,Wed,11/27/2019,21:00 (23:00),Genk be,1.6,1–4,3.0,at RB Salzburg,"17,284",Luminus Arena,Mattias Gestranius,Match Report,,1,4,2
+81,Group stage,5.0,Wed,11/27/2019,21:00 (23:00),Lille fr,2.4,0–2,1.6,nl Ajax,"48,612",Stade Pierre-Mauroy,Felix Brych,Match Report,,0,2,2
+82,Group stage,5.0,Wed,11/27/2019,21:00 (23:00),RB Leipzig de,3.2,2–2,0.9,pt Benfica,"38,339",Red Bull Arena,Jesús Gil,Match Report,,2,2,0
+83,Group stage,5.0,Wed,11/27/2019,21:00 (23:00),Barcelona es,2.4,3–1,1.6,de Dortmund,"90,071",Camp Nou,Clément Turpin,Match Report,,3,1,1
+85,Group stage,6.0,Tue,12/10/2019,18:55 (20:55),Napoli it,3.0,4–0,1.8,be Genk,"22,265",Stadio San Paolo,Cüneyt Çakιr,Match Report,,4,0,1
+86,Group stage,6.0,Tue,12/10/2019,18:55 (20:55),RB Salzburg at,0.7,0–2,3.4,eng Liverpool,"29,520",Red Bull Arena,Danny Makkelie,Match Report,,0,2,2
+87,Group stage,6.0,Tue,12/10/2019,20:00 (23:00),Benfica pt,2.4,3–0,0.1,ru Zenit,"40,232",Estádio do Sport Lisboa e Benfica,Antonio Matéu Lahoz,Match Report,,3,0,1
+88,Group stage,6.0,Tue,12/10/2019,20:00 (23:00),Chelsea eng,2.7,2–1,0.3,fr Lille,"40,016",Stamford Bridge,Anastasios Sidiropoulos,Match Report,,2,1,1
+89,Group stage,6.0,Tue,12/10/2019,21:00 (23:00),Inter it,1.7,1–2,1.5,es Barcelona,"71,818",Stadio Giuseppe Meazza,Björn Kuipers,Match Report,,1,2,2
+90,Group stage,6.0,Tue,12/10/2019,21:00 (23:00),Lyon fr,1.1,2–2,3.4,de RB Leipzig,"53,288",Groupama Stadium,Anthony Taylor,Match Report,,2,2,0
+91,Group stage,6.0,Tue,12/10/2019,21:00 (23:00),Ajax nl,1.2,0–1,1.1,es Valencia,"51,931",Johan Cruyff ArenA,Clément Turpin,Match Report,,0,1,2
+92,Group stage,6.0,Tue,12/10/2019,21:00 (23:00),Dortmund de,2.9,2–1,2.8,cz Slavia Prague,"65,079",Signal Iduna Park,Sergey Karasev,Match Report,,2,1,1
+93,Group stage,6.0,Wed,12/11/2019,18:55 (20:55),Dinamo Zagreb hr,0.4,1–4,3.6,eng Manchester City,"29,385",Stadion Maksimir,Carlos del Cerro,Match Report,,1,4,2
+94,Group stage,6.0,Wed,12/11/2019,19:55 (20:55),Shakhtar ua,0.6,0–3,2.9,it Atalanta,"26,536",Oblasny SportKomplex Metalist,Felix Zwayer,Match Report,,0,3,2
+95,Group stage,6.0,Wed,12/11/2019,21:00 (23:00),Paris S-G fr,4.4,5–0,0.3,tr Galatasaray,"46,509",Parc des Princes,István Kovács,Match Report,,5,0,1
+96,Group stage,6.0,Wed,12/11/2019,21:00 (23:00),Bayern Munich de,2.8,3–1,1.0,eng Tottenham,"66,353",Allianz Arena,Gianluca Rocchi,Match Report,,3,1,1
+97,Group stage,6.0,Wed,12/11/2019,21:00 (23:00),Atlético Madrid es,3.2,2–0,0.1,ru Loko Moscow,"58,426",Estadio Wanda Metropolitano,Viktor Kassai,Match Report,,2,0,1
+98,Group stage,6.0,Wed,12/11/2019,21:00 (23:00),Leverkusen de,2.2,0–2,0.9,it Juventus,"29,542",BayArena,Benoît Bastien,Match Report,,0,2,2
+99,Group stage,6.0,Wed,12/11/2019,21:00 (23:00),Club Brugge be,1.0,1–3,1.2,es Real Madrid,"27,308",Jan Breydelstadion,Tobias Stieler,Match Report,,1,3,2
+100,Group stage,6.0,Wed,12/11/2019,22:00 (23:00),Olympiacos gr,3.5,1–0,1.2,rs Red Star,"31,898",Stadio Georgios Karaiskáki,Daniele Orsato,Match Report,,1,0,1
+102,Round of 16,,Tue,2/18/2020,21:00 (23:00),Dortmund de,1.3,2–1,1.5,fr Paris S-G,"66,099",Signal Iduna Park,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2,1,1
+103,Round of 16,,Tue,2/18/2020,21:00 (23:00),Atlético Madrid es,1.2,1–0,0.5,eng Liverpool,"67,443",Estadio Wanda Metropolitano,Szymon Marciniak,Match Report,Leg 1 of 2,1,0,1
+104,Round of 16,,Wed,2/19/2020,20:00 (23:00),Tottenham eng,1.1,0–1,2.1,de RB Leipzig,"60,095",Tottenham Hotspur Stadium,Cüneyt Çakιr,Match Report,Leg 1 of 2,0,1,2
+105,Round of 16,,Wed,2/19/2020,21:00 (23:00),Atalanta it,1.8,4–1,2.5,es Valencia,"44,236",Stadio Giuseppe Meazza,Michael Oliver,Match Report,Leg 1 of 2,4,1,1
+106,Round of 16,,Tue,2/25/2020,20:00 (23:00),Chelsea eng,1.1,0–3,3.4,de Bayern Munich,"36,761",Stamford Bridge,Clément Turpin,Match Report,Leg 1 of 2,0,3,2
+107,Round of 16,,Tue,2/25/2020,21:00 (23:00),Napoli it,0.7,1–1,1.6,es Barcelona,"44,388",Stadio San Paolo,Felix Brych,Match Report,Leg 1 of 2,1,1,0
+108,Round of 16,,Wed,2/26/2020,21:00 (23:00),Real Madrid es,1.2,1–2,3.2,eng Manchester City,"75,615",Estadio Santiago Bernabéu,Daniele Orsato,Match Report,Leg 1 of 2,1,2,2
+109,Round of 16,,Wed,2/26/2020,21:00 (23:00),Lyon fr,1.1,1–0,1.1,it Juventus,"57,335",Groupama Stadium,Jesús Gil,Match Report,Leg 1 of 2,1,0,1
+110,Round of 16,,Tue,3/10/2020,21:00 (23:00),Valencia es,2.2,3–4,2.7,it Atalanta,,Estadio de Mestalla,Ovidiu Hațegan,Match Report,Leg 2 of 2; Atalanta won,3,4,2
+111,Round of 16,,Tue,3/10/2020,21:00 (23:00),RB Leipzig de,0.9,3–0,0.3,eng Tottenham,"42,146",Red Bull Arena,Carlos del Cerro,Match Report,Leg 2 of 2; RB Leipzig won,3,0,1
+112,Round of 16,,Wed,3/11/2020,20:00 (23:00),Liverpool eng,3.4,2–3,1.1,es Atlético Madrid,"52,267",Anfield,Danny Makkelie,Match Report,Leg 2 of 2; Atlético Madrid won; Required Extra Time,2,3,2
+113,Round of 16,,Wed,3/11/2020,21:00 (23:00),Paris S-G fr,1.2,2–0,0.5,de Dortmund,,Parc des Princes,Anthony Taylor,Match Report,Leg 2 of 2; Paris S-G won,2,0,1
+114,Round of 16,,Fri,8/7/2020,20:00 (22:00),Manchester City eng,2.1,2–1,0.8,es Real Madrid,,Etihad Stadium,Felix Brych,Match Report,Leg 2 of 2; Manchester City won,2,1,1
+115,Round of 16,,Fri,8/7/2020,21:00 (22:00),Juventus it,2.6,2–1,1.0,fr Lyon,,Allianz Stadium,Felix Zwayer,Match Report,Leg 2 of 2; Lyon won,2,1,1
+116,Round of 16,,Sat,8/8/2020,21:00 (22:00),Barcelona es,1.1,3–1,2.2,it Napoli,,Camp Nou,Cüneyt Çakιr,Match Report,Leg 2 of 2; Barcelona won,3,1,1
+117,Round of 16,,Sat,8/8/2020,21:00 (22:00),Bayern Munich de,2.9,4–1,1.0,eng Chelsea,,Allianz Arena,Ovidiu Hațegan,Match Report,Leg 2 of 2; Bayern Munich won,4,1,1
+118,Quarter-finals,,Wed,8/12/2020,21:00 (22:00),Atalanta it,0.5,1–2,2.8,fr Paris S-G,,Estádio do Sport Lisboa e Benfica (Neutral Site),Anthony Taylor,Match Report,,1,2,2
+119,Quarter-finals,,Thu,8/13/2020,21:00 (22:00),RB Leipzig de,0.9,2–1,1.1,es Atlético Madrid,,Estádio José Alvalade (Neutral Site),Szymon Marciniak,Match Report,,2,1,1
+120,Quarter-finals,,Fri,8/14/2020,20:00 (22:00),Barcelona es,1.1,2–8,5.3,de Bayern Munich,,Estádio do Sport Lisboa e Benfica (Neutral Site),Damir Skomina,Match Report,,2,8,2
+121,Quarter-finals,,Sat,8/15/2020,20:00 (22:00),Manchester City eng,2.5,1–3,1.0,fr Lyon,,Estádio José Alvalade (Neutral Site),Danny Makkelie,Match Report,,1,3,2
+122,Semi-finals,,Tue,8/18/2020,20:00 (22:00),RB Leipzig de,1.0,0–3,3.2,fr Paris S-G,,Estádio do Sport Lisboa e Benfica,Björn Kuipers,Match Report,,0,3,2
+123,Semi-finals,,Wed,8/19/2020,20:00 (22:00),Lyon fr,1.8,0–3,3.2,de Bayern Munich,,Estádio José Alvalade,Antonio Matéu Lahoz,Match Report,,0,3,2
+124,Final,,Sun,8/23/2020,20:00 (22:00),Paris S-G fr,1.1,0–1,1.5,de Bayern Munich,,Estádio do Sport Lisboa e Benfica,Daniele Orsato,Match Report,,0,1,2
+0,Group stage,1.0,Tue,10/20/2020,19:55,Zenit ru,2.2,1–2,2.0,be Club Brugge,"16,682",Gazprom Arena,Benoît Bastien,Match Report,,1,2,2
+1,Group stage,1.0,Tue,10/20/2020,19:55,Dynamo Kyiv ua,0.5,0–2,2.0,it Juventus,"14,850",NSK Olimpijs'kyj,Ovidiu Hațegan,Match Report,,0,2,2
+2,Group stage,1.0,Tue,10/20/2020,20:00 (22:00),Chelsea eng,0.4,0–0,0.2,es Sevilla,,Stamford Bridge,Davide Massa,Match Report,,0,0,0
+3,Group stage,1.0,Tue,10/20/2020,21:00 (22:00),Barcelona es,2.8,5–1,1.3,hu Ferencváros,,Camp Nou,Sandro Schärer,Match Report,,5,1,1
+4,Group stage,1.0,Tue,10/20/2020,21:00 (22:00),RB Leipzig de,1.0,2–0,0.6,tr Başakşehir,999,Red Bull Arena,Jesús Gil,Match Report,,2,0,1
+5,Group stage,1.0,Tue,10/20/2020,21:00 (22:00),Rennes fr,2.7,1–1,1.4,ru Krasnodar,"4,973",Roazhon Park,Anastasios Sidiropoulos,Match Report,,1,1,0
+6,Group stage,1.0,Tue,10/20/2020,21:00 (22:00),Paris S-G fr,1.4,1–2,1.4,eng Manchester Utd,,Parc des Princes,Antonio Matéu Lahoz,Match Report,,1,2,2
+7,Group stage,1.0,Tue,10/20/2020,21:00 (22:00),Lazio it,1.7,3–1,1.3,de Dortmund,"1,000",Stadio Olimpico,Clément Turpin,Match Report,,3,1,1
+8,Group stage,1.0,Wed,10/21/2020,18:55 (19:55),Real Madrid es,1.0,2–3,1.7,ua Shakhtar,,Estadio Alfredo Di Stéfano,Srđan Jovanović,Match Report,,2,3,2
+9,Group stage,1.0,Wed,10/21/2020,18:55 (19:55),RB Salzburg at,1.1,2–2,0.8,ru Loko Moscow,"3,000",Red Bull Arena,Serdar Gözübüyük,Match Report,,2,2,0
+10,Group stage,1.0,Wed,10/21/2020,20:00 (22:00),Manchester City eng,1.5,3–1,0.2,pt Porto,,Etihad Stadium,Andris Treimanis,Match Report,,3,1,1
+11,Group stage,1.0,Wed,10/21/2020,21:00 (22:00),Bayern Munich de,2.6,4–0,0.4,es Atlético Madrid,,Allianz Arena,Michael Oliver,Match Report,,4,0,1
+12,Group stage,1.0,Wed,10/21/2020,21:00 (22:00),Inter it,2.8,2–2,1.4,de M'Gladbach,"1,000",Stadio Giuseppe Meazza,Björn Kuipers,Match Report,,2,2,0
+13,Group stage,1.0,Wed,10/21/2020,21:00 (22:00),Ajax nl,1.4,0–1,1.1,eng Liverpool,,Johan Cruyff ArenA,Felix Brych,Match Report,,0,1,2
+14,Group stage,1.0,Wed,10/21/2020,21:00 (22:00),Midtjylland dk,0.8,0–4,2.5,it Atalanta,132,MCH Arena,Artur Soares Dias,Match Report,,0,4,2
+15,Group stage,1.0,Wed,10/21/2020,22:00,Olympiacos gr,1.0,1–0,0.9,fr Marseille,,Stadio Georgios Karaiskáki,Daniele Orsato,Match Report,,1,0,1
+17,Group stage,2.0,Tue,10/27/2020,19:55 (20:55),Shakhtar ua,0.1,0–0,1.7,it Inter,"10,178",Oblasny SportKomplex Metalist,Georgi Kabakov,Match Report,,0,0,0
+18,Group stage,2.0,Tue,10/27/2020,20:00 (23:00),Liverpool eng,2.2,2–0,1.2,dk Midtjylland,,Anfield,Paweł Raczkowski,Match Report,,2,0,1
+19,Group stage,2.0,Tue,10/27/2020,20:00 (23:00),Porto pt,1.4,2–0,1.0,gr Olympiacos,"2,450",Estádio Do Dragão,Daniel Siebert,Match Report,,2,0,1
+20,Group stage,2.0,Tue,10/27/2020,20:55,Loko Moscow ru,1.5,1–2,3.2,de Bayern Munich,"8,196",RZD Arena,István Kovács,Match Report,,1,2,2
+21,Group stage,2.0,Tue,10/27/2020,21:00 (23:00),Marseille fr,0.1,0–3,1.9,eng Manchester City,,Orange Vélodrome,Tobias Stieler,Match Report,,0,3,2
+22,Group stage,2.0,Tue,10/27/2020,21:00 (23:00),Atalanta it,1.7,2–2,1.4,nl Ajax,,Stadio Atleti Azzurri d'Italia,Damir Skomina,Match Report,,2,2,0
+23,Group stage,2.0,Tue,10/27/2020,21:00 (23:00),Atlético Madrid es,2.5,3–2,1.1,at RB Salzburg,,Estadio Wanda Metropolitano,Ovidiu Hațegan,Match Report,,3,2,1
+24,Group stage,2.0,Tue,10/27/2020,21:00 (23:00),M'Gladbach de,1.6,2–2,2.6,es Real Madrid,,Stadion im Borussia-Park,Orel Grinfeeld,Match Report,,2,2,0
+25,Group stage,2.0,Wed,10/28/2020,20:00 (23:00),Manchester Utd eng,3.2,5–0,0.5,de RB Leipzig,577,Old Trafford,Matej Jug,Match Report,,5,0,1
+26,Group stage,2.0,Wed,10/28/2020,20:55,Krasnodar ru,0.6,0–4,2.4,eng Chelsea,"10,544",Krasnodar Stadium,Ali Palabıyık,Match Report,,0,4,2
+27,Group stage,2.0,Wed,10/28/2020,20:55,Başakşehir tr,0.9,0–2,2.4,fr Paris S-G,350,Başakşehir Fatih Terim Stadium,Andreas Ekberg,Match Report,,0,2,2
+28,Group stage,2.0,Wed,10/28/2020,21:00 (23:00),Dortmund de,1.7,2–0,0.2,ru Zenit,,Signal Iduna Park,Björn Kuipers,Match Report,,2,0,1
+29,Group stage,2.0,Wed,10/28/2020,21:00 (23:00),Club Brugge be,2.1,1–1,0.8,it Lazio,,Jan Breydelstadion,Anthony Taylor,Match Report,,1,1,0
+30,Group stage,2.0,Wed,10/28/2020,21:00 (23:00),Sevilla es,2.6,1–0,0.1,fr Rennes,,Estadio Ramón Sánchez Pizjuán,Cüneyt Çakιr,Match Report,,1,0,1
+31,Group stage,2.0,Wed,10/28/2020,21:00 (23:00),Ferencváros hu,1.0,2–2,1.6,ua Dynamo Kyiv,"6,171",Groupama Arena,Ivan Kružliak,Match Report,,2,2,0
+32,Group stage,2.0,Wed,10/28/2020,21:00 (23:00),Juventus it,0.4,0–2,2.3,es Barcelona,,Allianz Stadium,Danny Makkelie,Match Report,,0,2,2
+34,Group stage,3.0,Tue,11/3/2020,19:55 (20:55),Shakhtar ua,0.4,0–6,2.3,de M'Gladbach,,Oblasny SportKomplex Metalist,Serdar Gözübüyük,Match Report,,0,6,2
+35,Group stage,3.0,Tue,11/3/2020,20:00 (23:00),Porto pt,2.4,3–0,1.0,fr Marseille,,Estádio Do Dragão,Antonio Matéu Lahoz,Match Report,,3,0,1
+36,Group stage,3.0,Tue,11/3/2020,20:00 (23:00),Manchester City eng,1.7,3–0,0.6,gr Olympiacos,,Etihad Stadium,Carlos del Cerro,Match Report,,3,0,1
+37,Group stage,3.0,Tue,11/3/2020,20:55,Loko Moscow ru,0.9,1–1,1.0,es Atlético Madrid,"8,147",RZD Arena,Benoît Bastien,Match Report,,1,1,0
+38,Group stage,3.0,Tue,11/3/2020,21:00 (23:00),RB Salzburg at,1.8,2–6,2.9,de Bayern Munich,,Red Bull Arena,Danny Makkelie,Match Report,,2,6,2
+39,Group stage,3.0,Tue,11/3/2020,21:00 (23:00),Midtjylland dk,0.7,1–2,0.7,nl Ajax,132,MCH Arena,Bobby Madden,Match Report,,1,2,2
+40,Group stage,3.0,Tue,11/3/2020,21:00 (23:00),Real Madrid es,1.2,3–2,0.7,it Inter,,Estadio Alfredo Di Stéfano,Clément Turpin,Match Report,,3,2,1
+41,Group stage,3.0,Tue,11/3/2020,21:00 (23:00),Atalanta it,1.2,0–5,2.5,eng Liverpool,,Stadio Atleti Azzurri d'Italia,Ovidiu Hațegan,Match Report,,0,5,2
+42,Group stage,3.0,Wed,11/4/2020,20:00 (23:00),Chelsea eng,3.3,3–0,0.6,fr Rennes,,Stamford Bridge,Felix Zwayer,Match Report,,3,0,1
+43,Group stage,3.0,Wed,11/4/2020,20:55,Başakşehir tr,1.0,2–1,0.7,eng Manchester Utd,350,Başakşehir Fatih Terim Stadium,Davide Massa,Match Report,,2,1,1
+44,Group stage,3.0,Wed,11/4/2020,20:55,Zenit ru,1.2,1–1,0.7,it Lazio,"17,427",Gazprom Arena,Artur Soares Dias,Match Report,,1,1,0
+45,Group stage,3.0,Wed,11/4/2020,21:00 (23:00),Sevilla es,2.0,3–2,1.4,ru Krasnodar,,Estadio Ramón Sánchez Pizjuán,Felix Brych,Match Report,,3,2,1
+46,Group stage,3.0,Wed,11/4/2020,21:00 (23:00),Club Brugge be,1.2,0–3,1.8,de Dortmund,,Jan Breydelstadion,Damir Skomina,Match Report,,0,3,2
+47,Group stage,3.0,Wed,11/4/2020,21:00 (23:00),Ferencváros hu,1.5,1–4,2.7,it Juventus,"18,531",Puskás Aréna,Orel Grinfeeld,Match Report,,1,4,2
+48,Group stage,3.0,Wed,11/4/2020,21:00 (23:00),Barcelona es,3.5,2–1,2.7,ua Dynamo Kyiv,,Camp Nou,Michael Oliver,Match Report,,2,1,1
+49,Group stage,3.0,Wed,11/4/2020,21:00 (23:00),RB Leipzig de,1.9,2–1,1.3,fr Paris S-G,,Red Bull Arena,Szymon Marciniak,Match Report,,2,1,1
+51,Group stage,4.0,Tue,11/24/2020,18:55 (20:55),Rennes fr,1.1,1–2,2.2,eng Chelsea,,Roazhon Park,Björn Kuipers,Match Report,,1,2,2
+52,Group stage,4.0,Tue,11/24/2020,20:00 (23:00),Manchester Utd eng,2.9,4–1,1.3,tr Başakşehir,545,Old Trafford,Ovidiu Hațegan,Match Report,,4,1,1
+53,Group stage,4.0,Tue,11/24/2020,20:55,Krasnodar ru,1.1,1–2,1.6,es Sevilla,"10,554",Krasnodar Stadium,Marco Guida,Match Report,,1,2,2
+54,Group stage,4.0,Tue,11/24/2020,21:00 (23:00),Lazio it,3.3,3–1,0.6,ru Zenit,,Stadio Olimpico,Michael Oliver,Match Report,,3,1,1
+55,Group stage,4.0,Tue,11/24/2020,21:00 (23:00),Paris S-G fr,1.1,1–0,1.4,de RB Leipzig,,Parc des Princes,Danny Makkelie,Match Report,,1,0,1
+56,Group stage,4.0,Tue,11/24/2020,21:00 (23:00),Dortmund de,1.6,3–0,0.1,be Club Brugge,,Signal Iduna Park,Ivan Kružliak,Match Report,,3,0,1
+57,Group stage,4.0,Tue,11/24/2020,21:00 (23:00),Juventus it,1.0,2–1,0.4,hu Ferencváros,,Allianz Stadium,Daniel Siebert,Match Report,,2,1,1
+58,Group stage,4.0,Tue,11/24/2020,22:00 (23:00),Dynamo Kyiv ua,0.3,0–4,3.0,es Barcelona,,NSK Olimpijs'kyj,Matej Jug,Match Report,,0,4,2
+59,Group stage,4.0,Wed,11/25/2020,18:55 (20:55),M'Gladbach de,3.2,4–0,0.7,ua Shakhtar,,Stadion im Borussia-Park,Cüneyt Çakιr,Match Report,,4,0,1
+60,Group stage,4.0,Wed,11/25/2020,19:55 (20:55),Olympiacos gr,0.1,0–1,2.4,eng Manchester City,,Stadio Georgios Karaiskáki,Davide Massa,Match Report,,0,1,2
+61,Group stage,4.0,Wed,11/25/2020,20:00 (23:00),Liverpool eng,0.2,0–2,1.2,it Atalanta,,Anfield,Carlos del Cerro,Match Report,,0,2,2
+62,Group stage,4.0,Wed,11/25/2020,21:00 (23:00),Marseille fr,1.3,0–2,2.1,pt Porto,,Orange Vélodrome,Andreas Ekberg,Match Report,,0,2,2
+63,Group stage,4.0,Wed,11/25/2020,21:00 (23:00),Inter it,0.2,0–2,2.0,es Real Madrid,,Stadio Giuseppe Meazza,Anthony Taylor,Match Report,,0,2,2
+64,Group stage,4.0,Wed,11/25/2020,21:00 (23:00),Ajax nl,2.4,3–1,1.4,dk Midtjylland,,Johan Cruyff ArenA,Sergey Karasev,Match Report,,3,1,1
+65,Group stage,4.0,Wed,11/25/2020,21:00 (23:00),Atlético Madrid es,1.6,0–0,0.2,ru Loko Moscow,,Estadio Wanda Metropolitano,Slavko Vinčič,Match Report,,0,0,0
+66,Group stage,4.0,Wed,11/25/2020,21:00 (23:00),Bayern Munich de,1.3,3–1,3.3,at RB Salzburg,,Allianz Arena,Orel Grinfeeld,Match Report,,3,1,1
+68,Group stage,5.0,Tue,12/1/2020,19:55 (20:55),Shakhtar ua,1.3,2–0,1.4,es Real Madrid,,Oblasny SportKomplex Metalist,Ovidiu Hațegan,Match Report,,2,0,1
+69,Group stage,5.0,Tue,12/1/2020,20:00 (23:00),Liverpool eng,2.0,1–0,1.5,nl Ajax,,Anfield,Tobias Stieler,Match Report,,1,0,1
+70,Group stage,5.0,Tue,12/1/2020,20:00 (23:00),Porto pt,0.1,0–0,2.5,eng Manchester City,,Estádio Do Dragão,Björn Kuipers,Match Report,,0,0,0
+71,Group stage,5.0,Tue,12/1/2020,20:55,Loko Moscow ru,1.1,1–3,2.4,at RB Salzburg,"6,759",RZD Arena,Ali Palabıyık,Match Report,,1,3,2
+72,Group stage,5.0,Tue,12/1/2020,21:00 (23:00),Marseille fr,2.0,2–1,0.3,gr Olympiacos,,Orange Vélodrome,Jesús Gil,Match Report,,2,1,1
+73,Group stage,5.0,Tue,12/1/2020,21:00 (23:00),Atalanta it,2.4,1–1,0.7,dk Midtjylland,,Stadio Atleti Azzurri d'Italia,Anastasios Sidiropoulos,Match Report,,1,1,0
+74,Group stage,5.0,Tue,12/1/2020,21:00 (23:00),M'Gladbach de,1.3,2–3,1.6,it Inter,,Stadion im Borussia-Park,Danny Makkelie,Match Report,,2,3,2
+75,Group stage,5.0,Tue,12/1/2020,21:00 (23:00),Atlético Madrid es,1.6,1–1,1.1,de Bayern Munich,,Estadio Wanda Metropolitano,Clément Turpin,Match Report,,1,1,0
+76,Group stage,5.0,Wed,12/2/2020,20:00 (23:00),Manchester Utd eng,1.2,1–3,2.8,fr Paris S-G,,Old Trafford,Daniele Orsato,Match Report,,1,3,2
+77,Group stage,5.0,Wed,12/2/2020,20:55,Krasnodar ru,1.5,1–0,0.7,fr Rennes,"8,747",Krasnodar Stadium,William Collum,Match Report,,1,0,1
+78,Group stage,5.0,Wed,12/2/2020,20:55,Başakşehir tr,0.6,3–4,2.1,de RB Leipzig,,Başakşehir Fatih Terim Stadium,Carlos del Cerro,Match Report,,3,4,2
+79,Group stage,5.0,Wed,12/2/2020,21:00 (23:00),Club Brugge be,2.0,3–0,0.2,ru Zenit,,Jan Breydelstadion,Serdar Gözübüyük,Match Report,,3,0,1
+80,Group stage,5.0,Wed,12/2/2020,21:00 (23:00),Juventus it,2.9,3–0,0.6,ua Dynamo Kyiv,,Allianz Stadium,Stéphanie Frappart,Match Report,,3,0,1
+81,Group stage,5.0,Wed,12/2/2020,21:00 (23:00),Dortmund de,1.4,1–1,1.9,it Lazio,,Signal Iduna Park,Antonio Matéu Lahoz,Match Report,,1,1,0
+82,Group stage,5.0,Wed,12/2/2020,21:00 (23:00),Ferencváros hu,0.8,0–3,4.0,es Barcelona,,Puskás Aréna,Aliaksei Kulbakou,Match Report,,0,3,2
+83,Group stage,5.0,Wed,12/2/2020,21:00 (23:00),Sevilla es,1.3,0–4,2.4,eng Chelsea,,Estadio Ramón Sánchez Pizjuán,Artur Soares Dias,Match Report,,0,4,2
+85,Group stage,6.0,Tue,12/8/2020,18:55 (20:55),Lazio it,2.7,2–2,1.1,be Club Brugge,,Stadio Olimpico,Cüneyt Çakιr,Match Report,,2,2,0
+86,Group stage,6.0,Tue,12/8/2020,20:00 (23:00),Chelsea eng,2.5,1–1,0.4,ru Krasnodar,"2,000",Stamford Bridge,Pavel Královec,Match Report,,1,1,0
+87,Group stage,6.0,Tue,12/8/2020,20:55,Zenit ru,1.2,1–2,1.6,de Dortmund,"10,860",Gazprom Arena,István Kovács,Match Report,,1,2,2
+88,Group stage,6.0,Tue,12/8/2020,21:00 (23:00),Barcelona es,0.9,0–3,2.9,it Juventus,,Camp Nou,Tobias Stieler,Match Report,,0,3,2
+89,Group stage,6.0,Tue,12/8/2020,21:00 (23:00),Rennes fr,2.4,1–3,1.5,es Sevilla,,Roazhon Park,Bartosz Frankowski,Match Report,,1,3,2
+90,Group stage,6.0,Tue,12/8/2020,21:00 (23:00),RB Leipzig de,1.5,3–2,2.0,eng Manchester Utd,,Red Bull Arena,Antonio Matéu Lahoz,Match Report,,3,2,1
+91,Group stage,6.0,Tue,12/8/2020,22:00 (23:00),Dynamo Kyiv ua,0.5,1–0,0.7,hu Ferencváros,,NSK Olimpijs'kyj,Andreas Ekberg,Match Report,,1,0,1
+92,Group stage,6.0,Wed,12/9/2020,18:55 (20:55),Ajax nl,0.7,0–1,1.2,it Atalanta,,Johan Cruyff ArenA,Carlos del Cerro,Match Report,,0,1,2
+93,Group stage,6.0,Wed,12/9/2020,18:55 (20:55),Paris S-G fr,3.1,5–1,0.8,tr Başakşehir,,Parc des Princes,Danny Makkelie,Match Report,,5,1,1
+94,Group stage,6.0,Wed,12/9/2020,18:55 (20:55),Midtjylland dk,2.3,1–1,1.1,eng Liverpool,,MCH Arena,François Letexier,Match Report,,1,1,0
+95,Group stage,6.0,Wed,12/9/2020,20:00 (23:00),Manchester City eng,2.4,3–0,0.5,fr Marseille,,Etihad Stadium,Halil Umut Meler,Match Report,,3,0,1
+96,Group stage,6.0,Wed,12/9/2020,21:00 (23:00),Real Madrid es,2.8,2–0,1.0,de M'Gladbach,,Estadio Alfredo Di Stéfano,Björn Kuipers,Match Report,,2,0,1
+97,Group stage,6.0,Wed,12/9/2020,21:00 (23:00),Bayern Munich de,1.7,2–0,0.4,ru Loko Moscow,,Allianz Arena,Sandro Schärer,Match Report,,2,0,1
+98,Group stage,6.0,Wed,12/9/2020,21:00 (23:00),RB Salzburg at,1.4,0–2,0.6,es Atlético Madrid,,Red Bull Arena,Anthony Taylor,Match Report,,0,2,2
+99,Group stage,6.0,Wed,12/9/2020,21:00 (23:00),Inter it,1.3,0–0,0.4,ua Shakhtar,,Stadio Giuseppe Meazza,Slavko Vinčič,Match Report,,0,0,0
+100,Group stage,6.0,Wed,12/9/2020,22:00 (23:00),Olympiacos gr,1.0,0–2,1.0,pt Porto,,Stadio Georgios Karaiskáki,Felix Brych,Match Report,,0,2,2
+102,Round of 16,,Tue,2/16/2021,21:00 (23:00),Barcelona es,1.6,1–4,2.8,fr Paris S-G,,Camp Nou,Björn Kuipers,Match Report,Leg 1 of 2,1,4,2
+103,Round of 16,,Tue,2/16/2021,21:00 (23:00),RB Leipzig de,1.3,0–2,1.4,eng Liverpool,,Puskás Aréna,Slavko Vinčič,Match Report,Leg 1 of 2,0,2,2
+104,Round of 16,,Wed,2/17/2021,20:00 (23:00),Porto pt,1.3,2–1,0.9,it Juventus,,Estádio Do Dragão,Carlos del Cerro,Match Report,Leg 1 of 2,2,1,1
+105,Round of 16,,Wed,2/17/2021,21:00 (23:00),Sevilla es,0.9,2–3,1.2,de Dortmund,,Estadio Ramón Sánchez Pizjuán,Danny Makkelie,Match Report,Leg 1 of 2,2,3,2
+106,Round of 16,,Tue,2/23/2021,21:00 (23:00),Lazio it,0.9,1–4,1.9,de Bayern Munich,,Stadio Olimpico,Orel Grinfeeld,Match Report,Leg 1 of 2,1,4,2
+107,Round of 16,,Tue,2/23/2021,21:00 (23:00),Atlético Madrid es,0.8,0–1,1.0,eng Chelsea,,Arena Naţională,Felix Brych,Match Report,Leg 1 of 2,0,1,2
+108,Round of 16,,Wed,2/24/2021,21:00 (23:00),M'Gladbach de,0.4,0–2,1.6,eng Manchester City,,Puskás Aréna,Artur Soares Dias,Match Report,Leg 1 of 2,0,2,2
+109,Round of 16,,Wed,2/24/2021,21:00 (23:00),Atalanta it,0.1,0–1,1.5,es Real Madrid,,Stadio Atleti Azzurri d'Italia,Tobias Stieler,Match Report,Leg 1 of 2,0,1,2
+110,Round of 16,,Tue,3/9/2021,21:00 (23:00),Juventus it,3.0,3–2,2.2,pt Porto,,Allianz Stadium,Björn Kuipers,Match Report,Leg 2 of 2; Porto won; Required Extra Time,3,2,1
+111,Round of 16,,Tue,3/9/2021,21:00 (23:00),Dortmund de,2.2,2–2,2.0,es Sevilla,,Fußballpark BVB Hohenbuschei,Cüneyt Çakιr,Match Report,Leg 2 of 2; Dortmund won,2,2,0
+112,Round of 16,,Wed,3/10/2021,20:00 (23:00),Liverpool eng,2.4,2–0,0.9,de RB Leipzig,,Puskás Aréna,Clément Turpin,Match Report,Leg 2 of 2; Liverpool won,2,0,1
+113,Round of 16,,Wed,3/10/2021,21:00 (23:00),Paris S-G fr,1.7,1–1,2.2,es Barcelona,,Parc des Princes,Anthony Taylor,Match Report,Leg 2 of 2; Paris S-G won,1,1,0
+114,Round of 16,,Tue,3/16/2021,20:00 (23:00),Manchester City eng,1.4,2–0,0.3,de M'Gladbach,,Etihad Stadium,Sergey Karasev,Match Report,Leg 2 of 2; Manchester City won,2,0,1
+115,Round of 16,,Tue,3/16/2021,21:00 (23:00),Real Madrid es,2.7,3–1,1.3,it Atalanta,,Estadio Alfredo Di Stéfano,Danny Makkelie,Match Report,Leg 2 of 2; Real Madrid won,3,1,1
+116,Round of 16,,Wed,3/17/2021,20:00 (23:00),Chelsea eng,2.0,2–0,0.5,es Atlético Madrid,,Stamford Bridge,Daniele Orsato,Match Report,Leg 2 of 2; Chelsea won,2,0,1
+117,Round of 16,,Wed,3/17/2021,21:00 (23:00),Bayern Munich de,1.9,2–1,1.1,it Lazio,,Allianz Arena,István Kovács,Match Report,Leg 2 of 2; Bayern Munich won,2,1,1
+118,Quarter-finals,,Tue,4/6/2021,20:00 (22:00),Manchester City eng,2.1,2–1,1.1,de Dortmund,,Etihad Stadium,Ovidiu Hațegan,Match Report,Leg 1 of 2,2,1,1
+119,Quarter-finals,,Tue,4/6/2021,21:00 (22:00),Real Madrid es,2.1,3–1,0.7,eng Liverpool,,Estadio Alfredo Di Stéfano,Felix Brych,Match Report,Leg 1 of 2,3,1,1
+120,Quarter-finals,,Wed,4/7/2021,20:00 (22:00),Porto pt,1.4,0–2,1.6,eng Chelsea,,Estadio Ramón Sánchez Pizjuán,Slavko Vinčič,Match Report,Leg 1 of 2,0,2,2
+121,Quarter-finals,,Wed,4/7/2021,21:00 (22:00),Bayern Munich de,3.7,2–3,1.3,fr Paris S-G,,Allianz Arena,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2,3,2
+122,Quarter-finals,,Tue,4/13/2021,20:00 (22:00),Chelsea eng,1.2,0–1,0.4,pt Porto,,Estadio Ramón Sánchez Pizjuán,Clément Turpin,Match Report,Leg 2 of 2; Chelsea won,0,1,2
+123,Quarter-finals,,Tue,4/13/2021,21:00 (22:00),Paris S-G fr,1.6,0–1,1.5,de Bayern Munich,,Parc des Princes,Daniele Orsato,Match Report,Leg 2 of 2; Paris S-G won,0,1,2
+124,Quarter-finals,,Wed,4/14/2021,20:00 (22:00),Liverpool eng,1.2,0–0,0.8,es Real Madrid,,Anfield,Björn Kuipers,Match Report,Leg 2 of 2; Real Madrid won,0,0,0
+125,Quarter-finals,,Wed,4/14/2021,21:00 (22:00),Dortmund de,0.5,1–2,2.5,eng Manchester City,,Signal Iduna Park,Carlos del Cerro,Match Report,Leg 2 of 2; Manchester City won,1,2,2
+126,Semi-finals,,Tue,4/27/2021,21:00 (22:00),Real Madrid es,0.7,1–1,1.7,eng Chelsea,,Estadio Alfredo Di Stéfano,Danny Makkelie,Match Report,Leg 1 of 2,1,1,0
+127,Semi-finals,,Wed,4/28/2021,21:00 (22:00),Paris S-G fr,1.0,1–2,0.8,eng Manchester City,,Parc des Princes,Felix Brych,Match Report,Leg 1 of 2,1,2,2
+128,Semi-finals,,Tue,5/4/2021,20:00 (22:00),Manchester City eng,1.4,2–0,0.8,fr Paris S-G,,Etihad Stadium,Björn Kuipers,Match Report,Leg 2 of 2; Manchester City won,2,0,1
+129,Semi-finals,,Wed,5/5/2021,20:00 (22:00),Chelsea eng,4.0,2–0,0.5,es Real Madrid,,Stamford Bridge,Daniele Orsato,Match Report,Leg 2 of 2; Chelsea won,2,0,1
+130,Final,,Sat,5/29/2021,22:00,Manchester City eng,0.5,0–1,1.4,eng Chelsea,"14,110",Estádio Do Dragão,Antonio Matéu Lahoz,Match Report,,0,1,2
+0,Group stage,1.0,Tue,9/14/2021,18:45 (19:45),Sevilla es,1.5,1–1,2.9,at RB Salzburg,"18,373",Estadio Ramón Sánchez Pizjuán,Aliaksei Kulbakou,Match Report,,1,1,0
+1,Group stage,1.0,Tue,9/14/2021,18:45 (19:45),Young Boys ch,1.4,2–1,0.5,eng Manchester Utd,"31,120",Wankdorfstadion,François Letexier,Match Report,,2,1,1
+2,Group stage,1.0,Tue,9/14/2021,20:00 (22:00),Chelsea eng,0.7,1–0,0.9,ru Zenit,"39,252",Stamford Bridge,Bartosz Frankowski,Match Report,,1,0,1
+3,Group stage,1.0,Tue,9/14/2021,21:00 (22:00),Villarreal es,2.3,2–2,1.3,it Atalanta,"12,916",Estadio de la Cerámica,Clément Turpin,Match Report,,2,2,0
+4,Group stage,1.0,Tue,9/14/2021,21:00 (22:00),Barcelona es,0.2,0–3,2.7,de Bayern Munich,"39,737",Camp Nou,Michael Oliver,Match Report,,0,3,2
+5,Group stage,1.0,Tue,9/14/2021,21:00 (22:00),Lille fr,1.6,0–0,0.1,de Wolfsburg,"34,314",Stade Pierre-Mauroy,Danny Makkelie,Match Report,,0,0,0
+6,Group stage,1.0,Tue,9/14/2021,21:00 (22:00),Malmö se,0.4,0–3,3.5,it Juventus,"5,832",Eleda Stadion,Artur Dias,Match Report,,0,3,2
+7,Group stage,1.0,Tue,9/14/2021,22:00,Dynamo Kyiv ua,0.6,0–0,1.0,pt Benfica,"21,657",NSK Olimpijs'kyj,Anthony Taylor,Match Report,,0,0,0
+8,Group stage,1.0,Wed,9/15/2021,19:45,Sheriff Tiraspol md,1.0,2–0,0.8,ua Shakhtar,"5,205",Bolshaya Sportivnaya Arena,Deniz Aytekin,Match Report,,2,0,1
+9,Group stage,1.0,Wed,9/15/2021,19:45,Beşiktaş tr,1.2,1–2,3.0,de Dortmund,"22,445",Vodafone Arena,Antonio Matéu Lahoz,Match Report,,1,2,2
+10,Group stage,1.0,Wed,9/15/2021,20:00 (22:00),Sporting CP pt,0.7,1–5,3.1,nl Ajax,"20,382",Estádio José Alvalade,José Sánchez,Match Report,,1,5,2
+11,Group stage,1.0,Wed,9/15/2021,20:00 (22:00),Manchester City eng,2.3,6–3,1.3,de RB Leipzig,"38,062",Etihad Stadium,Serdar Gözübüyük,Match Report,,6,3,1
+12,Group stage,1.0,Wed,9/15/2021,20:00 (22:00),Liverpool eng,2.5,3–2,1.6,it Milan,"51,445",Anfield,Szymon Marciniak,Match Report,,3,2,1
+13,Group stage,1.0,Wed,9/15/2021,21:00 (22:00),Inter it,2.4,0–1,1.2,es Real Madrid,"37,082",Stadio Giuseppe Meazza,Daniel Siebert,Match Report,,0,1,2
+14,Group stage,1.0,Wed,9/15/2021,21:00 (22:00),Club Brugge be,1.3,1–1,1.4,fr Paris S-G,"27,546",Jan Breydelstadion,Sandro Schärer,Match Report,,1,1,0
+15,Group stage,1.0,Wed,9/15/2021,21:00 (22:00),Atlético Madrid es,0.3,0–0,1.6,pt Porto,"40,098",Estadio Wanda Metropolitano,Ovidiu Hațegan,Match Report,,0,0,0
+17,Group stage,2.0,Tue,9/28/2021,18:45 (19:45),Ajax nl,3.5,2–0,0.9,tr Beşiktaş,"52,628",Johan Cruyff ArenA,Benoît Bastien,Match Report,,2,0,1
+18,Group stage,2.0,Tue,9/28/2021,19:45,Shakhtar ua,1.3,0–0,1.0,it Inter,"26,170",NSK Olimpijs'kyj,István Kovács,Match Report,,0,0,0
+19,Group stage,2.0,Tue,9/28/2021,20:00 (22:00),Porto pt,0.9,1–5,3.4,eng Liverpool,"23,520",Estádio Do Dragão,Sergey Karasev,Match Report,,1,5,2
+20,Group stage,2.0,Tue,9/28/2021,21:00 (22:00),Real Madrid es,3.1,1–2,0.4,md Sheriff Tiraspol,"24,522",Estadio Santiago Bernabéu,Lawrence Visser,Match Report,,1,2,2
+21,Group stage,2.0,Tue,9/28/2021,21:00 (22:00),RB Leipzig de,1.3,1–2,1.4,be Club Brugge,"23,500",Red Bull Arena,Slavko Vinčič,Match Report,,1,2,2
+22,Group stage,2.0,Tue,9/28/2021,21:00 (22:00),Dortmund de,0.3,1–0,0.4,pt Sporting CP,"25,000",Signal Iduna Park,Srdjan Stojanovic,Match Report,,1,0,1
+23,Group stage,2.0,Tue,9/28/2021,21:00 (22:00),Paris S-G fr,0.4,2–0,1.9,eng Manchester City,"37,350",Parc des Princes,Carlos del Cerro,Match Report,,2,0,1
+24,Group stage,2.0,Tue,9/28/2021,21:00 (22:00),Milan it,0.7,1–2,2.1,es Atlético Madrid,"35,374",Stadio Giuseppe Meazza,Cüneyt Çakιr,Match Report,,1,2,2
+25,Group stage,2.0,Wed,9/29/2021,18:45 (19:45),Atalanta it,2.5,1–0,0.1,ch Young Boys,"8,536",Stadio Atleti Azzurri d'Italia,Felix Brych,Match Report,,1,0,1
+26,Group stage,2.0,Wed,9/29/2021,19:45,Zenit ru,2.5,4–0,0.5,se Malmö,"15,339",Gazprom Arena,Anastasios Sidiropoulos,Match Report,,4,0,1
+27,Group stage,2.0,Wed,9/29/2021,20:00 (22:00),Manchester Utd eng,1.1,2–1,2.3,es Villarreal,"73,130",Old Trafford,Felix Zwayer,Match Report,,2,1,1
+28,Group stage,2.0,Wed,9/29/2021,20:00 (22:00),Benfica pt,1.9,3–0,1.2,es Barcelona,"29,454",Estádio do Sport Lisboa e Benfica,Daniele Orsato,Match Report,,3,0,1
+29,Group stage,2.0,Wed,9/29/2021,21:00 (22:00),RB Salzburg at,2.1,2–1,0.5,fr Lille,"24,207",Red Bull Arena,Halil Umut Meler,Match Report,,2,1,1
+30,Group stage,2.0,Wed,9/29/2021,21:00 (22:00),Juventus it,0.9,1–0,1.3,eng Chelsea,"19,934",Allianz Stadium,Jesús Gil,Match Report,,1,0,1
+31,Group stage,2.0,Wed,9/29/2021,21:00 (22:00),Bayern Munich de,2.7,5–0,0.3,ua Dynamo Kyiv,"25,000",Allianz Arena,Marco Guida,Match Report,,5,0,1
+32,Group stage,2.0,Wed,9/29/2021,21:00 (22:00),Wolfsburg de,1.2,1–1,1.1,es Sevilla,"11,733",Volkswagen Arena,Georgi Kabakov,Match Report,,1,1,0
+34,Group stage,3.0,Tue,10/19/2021,18:45 (19:45),Club Brugge be,0.6,1–5,4.7,eng Manchester City,"24,915",Jan Breydelstadion,István Kovács,Match Report,,1,5,2
+35,Group stage,3.0,Tue,10/19/2021,19:45,Beşiktaş tr,0.9,1–4,4.4,pt Sporting CP,"22,936",Vodafone Arena,Slavko Vinčič,Match Report,,1,4,2
+36,Group stage,3.0,Tue,10/19/2021,20:00 (22:00),Porto pt,1.1,1–0,0.2,it Milan,"32,130",Estádio Do Dragão,Felix Brych,Match Report,,1,0,1
+37,Group stage,3.0,Tue,10/19/2021,21:00 (22:00),Atlético Madrid es,2.2,2–3,1.3,eng Liverpool,"60,725",Estadio Wanda Metropolitano,Daniel Siebert,Match Report,,2,3,2
+38,Group stage,3.0,Tue,10/19/2021,21:00 (22:00),Inter it,2.3,3–1,0.4,md Sheriff Tiraspol,"43,305",Stadio Giuseppe Meazza,Danny Makkelie,Match Report,,3,1,1
+39,Group stage,3.0,Tue,10/19/2021,21:00 (22:00),Paris S-G fr,3.0,3–2,2.1,de RB Leipzig,"47,359",Parc des Princes,Marco Guida,Match Report,,3,2,1
+40,Group stage,3.0,Tue,10/19/2021,21:00 (22:00),Ajax nl,2.1,4–0,1.2,de Dortmund,"54,029",Johan Cruyff ArenA,Jesús Gil,Match Report,,4,0,1
+41,Group stage,3.0,Tue,10/19/2021,22:00,Shakhtar ua,0.7,0–5,2.6,es Real Madrid,"34,037",Oblasny SportKomplex Metalist,Srđan Jovanović,Match Report,,0,5,2
+42,Group stage,3.0,Wed,10/20/2021,18:45 (19:45),RB Salzburg at,2.7,3–1,0.9,de Wolfsburg,"29,520",Red Bull Arena,Daniele Orsato,Match Report,,3,1,1
+43,Group stage,3.0,Wed,10/20/2021,18:45 (19:45),Barcelona es,2.2,1–0,0.1,ua Dynamo Kyiv,"45,968",Camp Nou,Clément Turpin,Match Report,,1,0,1
+44,Group stage,3.0,Wed,10/20/2021,20:00 (22:00),Manchester Utd eng,2.8,3–2,1.6,it Atalanta,"72,279",Old Trafford,Szymon Marciniak,Match Report,,3,2,1
+45,Group stage,3.0,Wed,10/20/2021,20:00 (22:00),Benfica pt,0.7,0–4,3.0,de Bayern Munich,"55,201",Estádio do Sport Lisboa e Benfica,Ovidiu Hațegan,Match Report,,0,4,2
+46,Group stage,3.0,Wed,10/20/2021,20:00 (22:00),Chelsea eng,2.6,4–0,0.1,se Malmö,"39,095",Stamford Bridge,François Letexier,Match Report,,4,0,1
+47,Group stage,3.0,Wed,10/20/2021,21:00 (22:00),Lille fr,0.8,0–0,1.1,es Sevilla,"34,362",Stade Pierre-Mauroy,Michael Oliver,Match Report,,0,0,0
+48,Group stage,3.0,Wed,10/20/2021,21:00 (22:00),Young Boys ch,2.7,1–4,2.7,es Villarreal,"27,398",Wankdorfstadion,Sergey Karasev,Match Report,,1,4,2
+49,Group stage,3.0,Wed,10/20/2021,22:00,Zenit ru,0.6,0–1,1.2,it Juventus,"18,717",Gazprom Arena,Sandro Schärer,Match Report,,0,1,2
+51,Group stage,4.0,Tue,11/2/2021,18:45 (20:45),Wolfsburg de,1.7,2–1,1.6,at RB Salzburg,"16,112",Volkswagen Arena,Artur Dias,Match Report,,2,1,1
+52,Group stage,4.0,Tue,11/2/2021,18:45 (20:45),Malmö se,0.2,0–1,2.5,eng Chelsea,"19,551",Eleda Stadion,Felix Brych,Match Report,,0,1,2
+53,Group stage,4.0,Tue,11/2/2021,21:00 (23:00),Bayern Munich de,4.8,5–2,1.0,pt Benfica,"50,000",Allianz Arena,Szymon Marciniak,Match Report,,5,2,1
+54,Group stage,4.0,Tue,11/2/2021,21:00 (23:00),Atalanta it,1.5,2–2,1.1,eng Manchester Utd,"14,443",Stadio Atleti Azzurri d'Italia,Slavko Vinčič,Match Report,,2,2,0
+55,Group stage,4.0,Tue,11/2/2021,21:00 (23:00),Villarreal es,2.2,2–0,1.1,ch Young Boys,"14,890",Estadio de la Cerámica,Serdar Gözübüyük,Match Report,,2,0,1
+56,Group stage,4.0,Tue,11/2/2021,21:00 (23:00),Juventus it,2.7,4–2,1.3,ru Zenit,"20,053",Allianz Stadium,Alejandro Hernández,Match Report,,4,2,1
+57,Group stage,4.0,Tue,11/2/2021,21:00 (23:00),Sevilla es,1.0,1–2,1.9,fr Lille,"29,369",Estadio Ramón Sánchez Pizjuán,István Kovács,Match Report,,1,2,2
+58,Group stage,4.0,Tue,11/2/2021,22:00 (23:00),Dynamo Kyiv ua,1.0,0–1,0.8,es Barcelona,"31,378",NSK Olimpijs'kyj,Ovidiu Hațegan,Match Report,,0,1,2
+59,Group stage,4.0,Wed,11/3/2021,18:45 (20:45),Milan it,0.6,1–1,1.8,pt Porto,"39,675",Stadio Giuseppe Meazza,Clément Turpin,Match Report,,1,1,0
+60,Group stage,4.0,Wed,11/3/2021,18:45 (20:45),Real Madrid es,2.0,2–1,1.3,ua Shakhtar,"38,105",Estadio Santiago Bernabéu,Benoît Bastien,Match Report,,2,1,1
+61,Group stage,4.0,Wed,11/3/2021,20:00 (23:00),Manchester City eng,4.6,4–1,0.8,be Club Brugge,"50,228",Etihad Stadium,Antonio Matéu Lahoz,Match Report,,4,1,1
+62,Group stage,4.0,Wed,11/3/2021,20:00 (23:00),Sporting CP pt,2.7,4–0,1.1,tr Beşiktaş,"40,835",Estádio José Alvalade,Sergey Karasev,Match Report,,4,0,1
+63,Group stage,4.0,Wed,11/3/2021,20:00 (23:00),Liverpool eng,3.0,2–0,0.2,es Atlético Madrid,"51,347",Anfield,Danny Makkelie,Match Report,,2,0,1
+64,Group stage,4.0,Wed,11/3/2021,21:00 (23:00),RB Leipzig de,3.3,2–2,2.1,fr Paris S-G,"39,794",Red Bull Arena,Andreas Ekberg,Match Report,,2,2,0
+65,Group stage,4.0,Wed,11/3/2021,21:00 (23:00),Dortmund de,1.7,1–3,2.0,nl Ajax,"54,820",Signal Iduna Park,Michael Oliver,Match Report,,1,3,2
+66,Group stage,4.0,Wed,11/3/2021,22:00 (23:00),Sheriff Tiraspol md,0.3,1–3,2.5,it Inter,"5,930",Bolshaya Sportivnaya Arena,Felix Zwayer,Match Report,,1,3,2
+68,Group stage,5.0,Tue,11/23/2021,18:45 (20:45),Villarreal es,0.6,0–2,1.2,eng Manchester Utd,"20,875",Estadio de la Cerámica,Felix Brych,Match Report,,0,2,2
+69,Group stage,5.0,Tue,11/23/2021,19:45 (20:45),Dynamo Kyiv ua,1.1,1–2,1.0,de Bayern Munich,"28,732",NSK Olimpijs'kyj,Halil Umut Meler,Match Report,,1,2,2
+70,Group stage,5.0,Tue,11/23/2021,20:00 (23:00),Chelsea eng,3.0,4–0,0.7,it Juventus,"39,513",Stamford Bridge,Srđan Jovanović,Match Report,,4,0,1
+71,Group stage,5.0,Tue,11/23/2021,21:00 (23:00),Barcelona es,1.4,0–0,1.2,pt Benfica,"49,572",Camp Nou,Sergey Karasev,Match Report,,0,0,0
+72,Group stage,5.0,Tue,11/23/2021,21:00 (23:00),Lille fr,0.7,1–0,0.5,at RB Salzburg,"33,573",Stade Pierre-Mauroy,Anthony Taylor,Match Report,,1,0,1
+73,Group stage,5.0,Tue,11/23/2021,21:00 (23:00),Young Boys ch,0.7,3–3,1.2,it Atalanta,"31,120",Stade de Suisse Wankdorf Bern,Daniel Siebert,Match Report,,3,3,0
+74,Group stage,5.0,Tue,11/23/2021,21:00 (23:00),Sevilla es,1.6,2–0,0.3,de Wolfsburg,"28,663",Estadio Ramón Sánchez Pizjuán,Cüneyt Çakιr,Match Report,,2,0,1
+75,Group stage,5.0,Tue,11/23/2021,21:00 (23:00),Malmö se,0.2,1–1,1.9,ru Zenit,"15,520",Eleda Stadion,Andris Treimanis,Match Report,,1,1,0
+76,Group stage,5.0,Wed,11/24/2021,18:45 (20:45),Inter it,2.6,2–0,0.6,ua Shakhtar,"46,225",Stadio Giuseppe Meazza,Ovidiu Hațegan,Match Report,,2,0,1
+77,Group stage,5.0,Wed,11/24/2021,20:00 (23:00),Manchester City eng,2.1,2–1,1.0,fr Paris S-G,"52,030",Etihad Stadium,Daniele Orsato,Match Report,,2,1,1
+78,Group stage,5.0,Wed,11/24/2021,20:00 (23:00),Sporting CP pt,1.9,3–1,1.6,de Dortmund,"41,341",Estádio José Alvalade,Carlos del Cerro,Match Report,,3,1,1
+79,Group stage,5.0,Wed,11/24/2021,20:00 (23:00),Liverpool eng,0.6,2–0,1.1,pt Porto,"52,209",Anfield,Felix Zwayer,Match Report,,2,0,1
+80,Group stage,5.0,Wed,11/24/2021,20:45,Beşiktaş tr,1.9,1–2,2.5,nl Ajax,"11,712",Vodafone Arena,Irfan Peljto,Match Report,,1,2,2
+81,Group stage,5.0,Wed,11/24/2021,21:00 (23:00),Atlético Madrid es,0.9,0–1,1.3,it Milan,"61,019",Estadio Wanda Metropolitano,Slavko Vinčič,Match Report,,0,1,2
+82,Group stage,5.0,Wed,11/24/2021,21:00 (23:00),Club Brugge be,0.9,0–5,3.8,de RB Leipzig,"24,072",Jan Breydelstadion,Davide Massa,Match Report,,0,5,2
+83,Group stage,5.0,Wed,11/24/2021,22:00 (23:00),Sheriff Tiraspol md,1.4,0–3,1.5,es Real Madrid,"5,932",Bolshaya Sportivnaya Arena,Szymon Marciniak,Match Report,,0,3,2
+85,Group stage,6.0,Tue,12/7/2021,18:45 (20:45),Paris S-G fr,3.6,4–1,1.1,be Club Brugge,"47,492",Parc des Princes,Jesús Gil,Match Report,,4,1,1
+86,Group stage,6.0,Tue,12/7/2021,18:45 (20:45),RB Leipzig de,1.7,2–1,1.2,eng Manchester City,,Red Bull Arena,Sandro Schärer,Match Report,,2,1,1
+87,Group stage,6.0,Tue,12/7/2021,20:00 (23:00),Porto pt,1.6,1–3,3.7,es Atlético Madrid,"38,830",Estádio Do Dragão,Clément Turpin,Match Report,,1,3,2
+88,Group stage,6.0,Tue,12/7/2021,21:00 (23:00),Real Madrid es,1.2,2–0,0.9,it Inter,"44,887",Estadio Santiago Bernabéu,Felix Brych,Match Report,,2,0,1
+89,Group stage,6.0,Tue,12/7/2021,21:00 (23:00),Dortmund de,3.5,5–0,0.1,tr Beşiktaş,"15,000",Signal Iduna Park,François Letexier,Match Report,,5,0,1
+90,Group stage,6.0,Tue,12/7/2021,21:00 (23:00),Ajax nl,2.1,4–2,1.2,pt Sporting CP,,Johan Cruyff ArenA,Davide Massa,Match Report,,4,2,1
+91,Group stage,6.0,Tue,12/7/2021,21:00 (23:00),Milan it,1.4,1–2,1.9,eng Liverpool,"56,237",Stadio Giuseppe Meazza,Danny Makkelie,Match Report,,1,2,2
+92,Group stage,6.0,Tue,12/7/2021,22:00 (23:00),Shakhtar ua,2.0,1–1,1.0,md Sheriff Tiraspol,"6,841",Oblasny SportKomplex Metalist,Donatas Rumšas,Match Report,,1,1,0
+93,Group stage,6.0,Wed,12/8/2021,18:45 (20:45),Juventus it,2.1,1–0,0.2,se Malmö,"17,501",Allianz Stadium,Irfan Peljto,Match Report,,1,0,1
+94,Group stage,6.0,Wed,12/8/2021,20:00 (23:00),Benfica pt,1.1,2–0,1.0,ua Dynamo Kyiv,"36,591",Estádio do Sport Lisboa e Benfica,Deniz Aytekin,Match Report,,2,0,1
+95,Group stage,6.0,Wed,12/8/2021,20:00 (23:00),Manchester Utd eng,1.2,1–1,1.3,ch Young Boys,"73,156",Old Trafford,Benoît Bastien,Match Report,,1,1,0
+96,Group stage,6.0,Wed,12/8/2021,20:45,Zenit ru,2.6,3–3,2.7,eng Chelsea,"29,349",Gazprom Arena,Serdar Gözübüyük,Match Report,,3,3,0
+97,Group stage,6.0,Wed,12/8/2021,21:00 (23:00),Bayern Munich de,2.4,3–0,0.4,es Barcelona,,Allianz Arena,Ovidiu Hațegan,Match Report,,3,0,1
+98,Group stage,6.0,Wed,12/8/2021,21:00 (23:00),Wolfsburg de,0.7,1–3,2.5,fr Lille,"6,544",Volkswagen Arena,Daniele Orsato,Match Report,,1,3,2
+99,Group stage,6.0,Wed,12/8/2021,21:00 (23:00),RB Salzburg at,0.6,1–0,0.9,es Sevilla,,Red Bull Arena,Slavko Vinčič,Match Report,,1,0,1
+100,Group stage,6.0,Thu,12/9/2021,19:00 (21:00),Atalanta it,2.0,2–3,2.2,es Villarreal,"11,690",Stadio Atleti Azzurri d'Italia,Anthony Taylor,Match Report,,2,3,2
+102,Round of 16,,Tue,2/15/2022,20:00 (23:00),Sporting CP pt,0.1,0–5,2.1,eng Manchester City,"48,129",Estádio José Alvalade,Srdjan Stojanovic,Match Report,Leg 1 of 2,0,5,2
+103,Round of 16,,Tue,2/15/2022,21:00 (23:00),Paris S-G fr,2.4,1–0,0.3,es Real Madrid,"47,443",Parc des Princes,Daniele Orsato,Match Report,Leg 1 of 2,1,0,1
+104,Round of 16,,Wed,2/16/2022,21:00 (23:00),RB Salzburg at,1.1,1–1,2.3,de Bayern Munich,"29,520",Red Bull Arena,Michael Oliver,Match Report,Leg 1 of 2,1,1,0
+105,Round of 16,,Wed,2/16/2022,21:00 (23:00),Inter it,0.6,0–2,1.0,eng Liverpool,"37,918",Stadio Giuseppe Meazza,Szymon Marciniak,Match Report,Leg 1 of 2,0,2,2
+106,Round of 16,,Tue,2/22/2022,20:00 (23:00),Chelsea eng,1.2,2–0,0.8,fr Lille,"38,832",Stamford Bridge,Jesús Gil,Match Report,Leg 1 of 2,2,0,1
+107,Round of 16,,Tue,2/22/2022,21:00 (23:00),Villarreal es,1.3,1–1,0.7,it Juventus,"17,686",Estadio de la Cerámica,Daniel Siebert,Match Report,Leg 1 of 2,1,1,0
+108,Round of 16,,Wed,2/23/2022,20:00 (23:00),Benfica pt,2.0,2–2,2.4,nl Ajax,"54,760",Estádio do Sport Lisboa e Benfica,Slavko Vinčič,Match Report,Leg 1 of 2,2,2,0
+109,Round of 16,,Wed,2/23/2022,21:00 (23:00),Atlético Madrid es,1.3,1–1,0.6,eng Manchester Utd,"63,273",Estadio Wanda Metropolitano,Ovidiu Hațegan,Match Report,Leg 1 of 2,1,1,0
+110,Round of 16,,Tue,3/8/2022,20:00 (23:00),Liverpool eng,1.8,0–1,0.5,it Inter,"51,747",Anfield,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Liverpool won,0,1,2
+111,Round of 16,,Tue,3/8/2022,21:00 (23:00),Bayern Munich de,4.2,7–1,0.7,at RB Salzburg,"25,000",Allianz Arena,Clément Turpin,Match Report,Leg 2 of 2; Bayern Munich won,7,1,1
+112,Round of 16,,Wed,3/9/2022,20:00 (23:00),Manchester City eng,1.5,0–0,0.8,pt Sporting CP,"51,213",Etihad Stadium,Halil Umut Meler,Match Report,Leg 2 of 2; Manchester City won,0,0,0
+113,Round of 16,,Wed,3/9/2022,21:00 (23:00),Real Madrid es,1.9,3–1,1.1,fr Paris S-G,"59,895",Estadio Santiago Bernabéu,Danny Makkelie,Match Report,Leg 2 of 2; Real Madrid won,3,1,1
+114,Round of 16,,Tue,3/15/2022,20:00 (23:00),Manchester Utd eng,1.0,0–1,0.5,es Atlético Madrid,"73,008",Old Trafford,Slavko Vinčič,Match Report,Leg 2 of 2; Atlético Madrid won,0,1,2
+115,Round of 16,,Tue,3/15/2022,21:00 (23:00),Ajax nl,1.3,0–1,0.4,pt Benfica,"54,066",Johan Cruyff ArenA,Carlos del Cerro,Match Report,Leg 2 of 2; Benfica won,0,1,2
+116,Round of 16,,Wed,3/16/2022,21:00 (23:00),Lille fr,1.7,1–2,1.0,eng Chelsea,"49,048",Stade Pierre-Mauroy,Davide Massa,Match Report,Leg 2 of 2; Chelsea won,1,2,2
+117,Round of 16,,Wed,3/16/2022,21:00 (23:00),Juventus it,1.5,0–3,2.5,es Villarreal,"30,385",Allianz Stadium,Szymon Marciniak,Match Report,Leg 2 of 2; Villarreal won,0,3,2
+118,Quarter-finals,,Tue,4/5/2022,20:00 (22:00),Benfica pt,1.2,1–3,3.9,eng Liverpool,"59,633",Estádio do Sport Lisboa e Benfica,Jesús Gil,Match Report,Leg 1 of 2,1,3,2
+119,Quarter-finals,,Tue,4/5/2022,20:00 (22:00),Manchester City eng,1.0,1–0,0.0,es Atlético Madrid,"52,018",Etihad Stadium,István Kovács,Match Report,Leg 1 of 2,1,0,1
+120,Quarter-finals,,Wed,4/6/2022,20:00 (22:00),Chelsea eng,1.3,1–3,1.8,es Real Madrid,"38,689",Stamford Bridge,Clément Turpin,Match Report,Leg 1 of 2,1,3,2
+121,Quarter-finals,,Wed,4/6/2022,21:00 (22:00),Villarreal es,1.5,1–0,1.6,de Bayern Munich,"21,626",Estadio de la Cerámica,Anthony Taylor,Match Report,Leg 1 of 2,1,0,1
+122,Quarter-finals,,Tue,4/12/2022,21:00 (22:00),Bayern Munich de,1.4,1–1,0.7,es Villarreal,"70,000",Allianz Arena,Slavko Vinčič,Match Report,Leg 2 of 2; Villarreal won,1,1,0
+123,Quarter-finals,,Tue,4/12/2022,21:00 (22:00),Real Madrid es,1.2,2–3,2.7,eng Chelsea,"59,839",Estadio Santiago Bernabéu,Szymon Marciniak,Match Report,Leg 2 of 2; Real Madrid won; Required Extra Time,2,3,2
+124,Quarter-finals,,Wed,4/13/2022,20:00 (22:00),Liverpool eng,1.8,3–3,1.2,pt Benfica,"51,373",Anfield,Serdar Gözübüyük,Match Report,Leg 2 of 2; Liverpool won,3,3,0
+125,Quarter-finals,,Wed,4/13/2022,21:00 (22:00),Atlético Madrid es,0.8,0–0,1.2,eng Manchester City,"65,675",Estadio Wanda Metropolitano,Daniel Siebert,Match Report,Leg 2 of 2; Manchester City won,0,0,0
+126,Semi-finals,,Tue,4/26/2022,20:00 (22:00),Manchester City eng,2.7,4–3,1.6,es Real Madrid,"52,217",Etihad Stadium,István Kovács,Match Report,Leg 1 of 2,4,3,1
+127,Semi-finals,,Wed,4/27/2022,20:00 (22:00),Liverpool eng,1.6,2–0,0.1,es Villarreal,"51,586",Anfield,Szymon Marciniak,Match Report,Leg 1 of 2,2,0,1
+128,Semi-finals,,Tue,5/3/2022,21:00 (22:00),Villarreal es,1.2,2–3,2.5,eng Liverpool,"23,665",Estadio de la Cerámica,Danny Makkelie,Match Report,Leg 2 of 2; Liverpool won,2,3,2
+129,Semi-finals,,Wed,5/4/2022,21:00 (22:00),Real Madrid es,2.3,3–1,1.4,eng Manchester City,"61,416",Estadio Santiago Bernabéu,Daniele Orsato,Match Report,Leg 2 of 2; Real Madrid won; Required Extra Time,3,1,1
+130,Final,,Sat,5/28/2022,21:30 (22:30),Liverpool eng,2.2,0–1,0.9,es Real Madrid,"75,000",Stade de France (Neutral Site),Clément Turpin,Match Report,,0,1,2
+0,Group stage,1.0,Tue,9/12/2017,19:45 (21:45),Chelsea eng,2.0,6–0,0.3,az Qarabağ FK,"41,150",Stamford Bridge,Tasos Sidiropoulos,Match Report,,6,0,1
+1,Group stage,1.0,Tue,9/12/2017,19:45 (21:45),Celtic sct,0.4,0–5,2.5,fr Paris S-G,"57,562",Celtic Park,Daniele Orsato,Match Report,,0,5,2
+2,Group stage,1.0,Tue,9/12/2017,19:45 (21:45),Manchester Utd eng,3.4,3–0,0.6,ch Basel,"73,854",Old Trafford,Ruddy Buquet,Match Report,,3,0,1
+3,Group stage,1.0,Tue,9/12/2017,19:45 (21:45),Benfica pt,2.1,1–2,1.6,ru CSKA Moscow,"38,323",Estádio do Sport Lisboa e Benfica,Alberto Undiano,Match Report,,1,2,2
+4,Group stage,1.0,Tue,9/12/2017,20:45 (21:45),Roma it,0.5,0–0,2.4,es Atlético Madrid,"36,064",Stadio Olimpico,Milorad Mažić,Match Report,,0,0,0
+5,Group stage,1.0,Tue,9/12/2017,20:45 (21:45),Barcelona es,0.9,3–0,0.7,it Juventus,"78,656",Camp Nou,Damir Skomina,Match Report,,3,0,1
+6,Group stage,1.0,Tue,9/12/2017,20:45 (21:45),Bayern Munich de,4.2,3–0,0.8,be Anderlecht,"70,000",Allianz Arena,Paolo Tagliavento,Match Report,,3,0,1
+7,Group stage,1.0,Tue,9/12/2017,21:45,Olympiacos gr,1.1,2–3,2.6,pt Sporting CP,"30,168",Stadio Georgios Karaiskáki,Viktor Kassai,Match Report,,2,3,2
+8,Group stage,1.0,Wed,9/13/2017,19:45 (21:45),Porto pt,1.5,1–3,0.9,tr Beşiktaş,"42,429",Estádio Do Dragão,Anthony Taylor,Match Report,,1,3,2
+9,Group stage,1.0,Wed,9/13/2017,19:45 (21:45),Liverpool eng,2.4,2–2,1.2,es Sevilla,"52,332",Anfield,Danny Makkelie,Match Report,,2,2,0
+10,Group stage,1.0,Wed,9/13/2017,19:45 (21:45),Tottenham eng,1.2,3–1,0.8,de Dortmund,"67,343",Wembley Stadium,Gianluca Rocchi,Match Report,,3,1,1
+11,Group stage,1.0,Wed,9/13/2017,20:45 (21:45),NK Maribor si,1.1,1–1,1.8,ru Spartak Moscow,"12,566",Ljudski vrt,Deniz Aytekin,Match Report,,1,1,0
+12,Group stage,1.0,Wed,9/13/2017,20:45 (21:45),Feyenoord nl,0.3,0–4,1.3,eng Manchester City,"43,500",Stadion Feijenoord,Szymon Marciniak,Match Report,,0,4,2
+13,Group stage,1.0,Wed,9/13/2017,20:45 (21:45),RB Leipzig de,0.9,1–1,1.1,fr Monaco,"40,068",Red Bull Arena,Michael Oliver,Match Report,,1,1,0
+14,Group stage,1.0,Wed,9/13/2017,20:45 (21:45),Real Madrid es,3.9,3–0,0.2,cy APOEL FC,"71,060",Estadio Santiago Bernabéu,Benoît Bastien,Match Report,,3,0,1
+15,Group stage,1.0,Wed,9/13/2017,21:45,Shakhtar ua,1.4,2–1,1.9,it Napoli,"32,679",L'viv Arena,Felix Zwayer,Match Report,,2,1,1
+17,Group stage,2.0,Tue,9/26/2017,19:45 (21:45),Manchester City eng,3.2,2–0,0.5,ua Shakhtar,"45,310",Academy Stadium,Jorge de Sousa,Match Report,,2,0,1
+18,Group stage,2.0,Tue,9/26/2017,20:45 (21:45),Sevilla es,3.9,3–0,0.4,si NK Maribor,"34,705",Estadio Ramón Sánchez Pizjuán,Aliaksei Kulbakov,Match Report,,3,0,1
+19,Group stage,2.0,Tue,9/26/2017,20:45 (21:45),Dortmund de,1.2,1–3,3.2,es Real Madrid,"65,849",Signal Iduna Park,Björn Kuipers,Match Report,,1,3,2
+20,Group stage,2.0,Tue,9/26/2017,20:45 (21:45),Monaco fr,0.6,0–3,2.9,pt Porto,"11,703",Stade Louis II.,Slavko Vinčić,Match Report,,0,3,2
+21,Group stage,2.0,Tue,9/26/2017,20:45 (21:45),Napoli it,0.9,3–1,1.6,nl Feyenoord,"22,577",Stadio San Paolo,William Collum,Match Report,,3,1,1
+22,Group stage,2.0,Tue,9/26/2017,21:45,Spartak Moscow ru,0.2,1–1,2.8,eng Liverpool,"43,376",Otkrytie Arena,Clément Turpin,Match Report,,1,1,0
+23,Group stage,2.0,Tue,9/26/2017,21:45,Beşiktaş tr,1.0,2–0,1.1,de RB Leipzig,"36,641",Vodafone Arena,Sergey Karasev,Match Report,,2,0,1
+24,Group stage,2.0,Tue,9/26/2017,21:45,APOEL FC cy,1.0,0–3,1.8,eng Tottenham,"16,324",Neo GSP,Pavel Královec,Match Report,,0,3,2
+25,Group stage,2.0,Thu,9/28/2017,00:45 (21:45),CSKA Moscow ru,0.6,1–4,4.3,eng Manchester Utd,"29,073",Stadion CSKA,Jonas Eriksson,Match Report,,1,4,2
+26,Group stage,2.0,Wed,9/27/2017,19:45 (21:45),Sporting CP pt,0.7,0–1,0.9,es Barcelona,"48,575",Estádio José Alvalade,Ovidiu Hațegan,Match Report,,0,1,2
+27,Group stage,2.0,Wed,9/27/2017,20:00 (19:00),Qarabağ FK az,0.9,1–2,1.9,it Roma,"67,200",Bakı Olimpiya Stadionu,Artur Soares Dias,Match Report,,1,2,2
+28,Group stage,2.0,Wed,9/27/2017,20:45 (21:45),Atlético Madrid es,1.4,1–2,2.5,eng Chelsea,"60,643",Estadio Wanda Metropolitano,Cüneyt Çakιr,Match Report,,1,2,2
+29,Group stage,2.0,Wed,9/27/2017,20:45 (21:45),Juventus it,2.3,2–0,0.5,gr Olympiacos,"33,460",Allianz Stadium,Tobias Stieler,Match Report,,2,0,1
+30,Group stage,2.0,Wed,9/27/2017,20:45 (21:45),Basel ch,3.2,5–0,0.4,pt Benfica,"34,111",St. Jakob-Park,Craig Thomson,Match Report,,5,0,1
+31,Group stage,2.0,Wed,9/27/2017,20:45 (21:45),Paris S-G fr,2.0,3–0,1.0,de Bayern Munich,"46,252",Parc des Princes,Antonio Matéu Lahoz,Match Report,,3,0,1
+32,Group stage,2.0,Wed,9/27/2017,20:45 (21:45),Anderlecht be,0.6,0–3,1.2,sct Celtic,"19,898",Stade Constant Vanden Stock,Jesús Gil,Match Report,,0,3,2
+34,Group stage,3.0,Tue,10/17/2017,19:45 (21:45),Manchester City eng,2.7,2–1,2.2,it Napoli,"48,520",Etihad Stadium,Antonio Matéu Lahoz,Match Report,,2,1,1
+35,Group stage,3.0,Tue,10/17/2017,20:45 (21:45),Feyenoord nl,1.6,1–2,1.3,ua Shakhtar,"43,500",Stadion Feijenoord,Alberto Undiano,Match Report,,1,2,2
+36,Group stage,3.0,Tue,10/17/2017,20:45 (21:45),Monaco fr,0.7,1–2,1.2,tr Beşiktaş,"7,403",Stade Louis II.,Milorad Mažić,Match Report,,1,2,2
+37,Group stage,3.0,Tue,10/17/2017,20:45 (21:45),RB Leipzig de,2.5,3–2,1.1,pt Porto,"41,496",Red Bull Arena,Paolo Tagliavento,Match Report,,3,2,1
+38,Group stage,3.0,Tue,10/17/2017,20:45 (21:45),Real Madrid es,2.9,1–1,0.9,eng Tottenham,"76,589",Estadio Santiago Bernabéu,Szymon Marciniak,Match Report,,1,1,0
+39,Group stage,3.0,Tue,10/17/2017,20:45 (21:45),NK Maribor si,0.4,0–7,4.6,eng Liverpool,"12,506",Ljudski vrt,Viktor Kassai,Match Report,,0,7,2
+40,Group stage,3.0,Tue,10/17/2017,21:45,Spartak Moscow ru,1.7,5–1,1.3,es Sevilla,"44,307",Otkrytie Arena,Gianluca Rocchi,Match Report,,5,1,1
+41,Group stage,3.0,Tue,10/17/2017,21:45,APOEL FC cy,1.0,1–1,2.1,de Dortmund,"15,604",Neo GSP,Aliaksei Kulbakov,Match Report,,1,1,0
+42,Group stage,3.0,Wed,10/18/2017,19:45 (21:45),Benfica pt,0.5,0–1,0.6,eng Manchester Utd,"57,684",Estádio do Sport Lisboa e Benfica,Felix Zwayer,Match Report,,0,1,2
+43,Group stage,3.0,Wed,10/18/2017,19:45 (21:45),Chelsea eng,1.6,3–3,1.6,it Roma,"41,105",Stamford Bridge,Damir Skomina,Match Report,,3,3,0
+44,Group stage,3.0,Wed,10/18/2017,20:00 (19:00),Qarabağ FK az,0.4,0–0,1.9,es Atlético Madrid,"47,923",Bakı Olimpiya Stadionu,Ruddy Buquet,Match Report,,0,0,0
+45,Group stage,3.0,Wed,10/18/2017,20:45 (21:45),Barcelona es,3.5,3–1,0.2,gr Olympiacos,"55,026",Camp Nou,William Collum,Match Report,,3,1,1
+46,Group stage,3.0,Wed,10/18/2017,20:45 (21:45),Anderlecht be,1.2,0–4,3.3,fr Paris S-G,"19,108",Stade Constant Vanden Stock,Pavel Královec,Match Report,,0,4,2
+47,Group stage,3.0,Wed,10/18/2017,20:45 (21:45),Bayern Munich de,3.2,3–0,0.6,sct Celtic,"70,000",Allianz Arena,Sergey Karasev,Match Report,,3,0,1
+48,Group stage,3.0,Wed,10/18/2017,20:45 (21:45),Juventus it,1.5,2–1,0.5,pt Sporting CP,"36,288",Allianz Stadium,Michael Oliver,Match Report,,2,1,1
+49,Group stage,3.0,Wed,10/18/2017,21:45,CSKA Moscow ru,0.4,0–2,1.4,ch Basel,"27,996",VEB Arena,Björn Kuipers,Match Report,,0,2,2
+51,Group stage,4.0,Tue,10/31/2017,19:45 (22:45),Celtic sct,1.4,1–2,0.7,de Bayern Munich,"58,269",Celtic Park,Danny Makkelie,Match Report,,1,2,2
+52,Group stage,4.0,Tue,10/31/2017,19:45 (22:45),Sporting CP pt,0.5,1–1,2.0,it Juventus,"48,442",Estádio José Alvalade,Clément Turpin,Match Report,,1,1,0
+53,Group stage,4.0,Tue,10/31/2017,19:45 (22:45),Manchester Utd eng,2.7,2–0,0.9,pt Benfica,"74,437",Old Trafford,Gediminas Mažeika,Match Report,,2,0,1
+54,Group stage,4.0,Tue,10/31/2017,20:45 (22:45),Paris S-G fr,2.6,5–0,0.2,be Anderlecht,"46,403",Parc des Princes,David Fernández,Match Report,,5,0,1
+55,Group stage,4.0,Tue,10/31/2017,20:45 (22:45),Atlético Madrid es,3.2,1–1,0.2,az Qarabağ FK,"55,893",Estadio Wanda Metropolitano,Deniz Aytekin,Match Report,,1,1,0
+56,Group stage,4.0,Tue,10/31/2017,20:45 (22:45),Roma it,1.5,3–0,1.3,eng Chelsea,"55,036",Stadio Olimpico,Jonas Eriksson,Match Report,,3,0,1
+57,Group stage,4.0,Tue,10/31/2017,20:45 (22:45),Basel ch,1.2,1–2,1.3,ru CSKA Moscow,"33,303",St. Jakob-Park,Milorad Mažić,Match Report,,1,2,2
+58,Group stage,4.0,Tue,10/31/2017,21:45 (22:45),Olympiacos gr,0.3,0–0,1.8,es Barcelona,"31,600",Stadio Georgios Karaiskáki,Anthony Taylor,Match Report,,0,0,0
+59,Group stage,4.0,Wed,11/1/2017,19:45 (22:45),Tottenham eng,2.3,3–1,2.2,es Real Madrid,"83,782",Wembley Stadium,Cüneyt Çakιr,Match Report,,3,1,1
+60,Group stage,4.0,Wed,11/1/2017,19:45 (22:45),Porto pt,1.8,3–1,0.6,de RB Leipzig,"41,616",Estádio Do Dragão,Ovidiu Hațegan,Match Report,,3,1,1
+61,Group stage,4.0,Wed,11/1/2017,19:45 (22:45),Liverpool eng,2.7,3–0,0.3,si NK Maribor,"47,957",Anfield,Ivan Kružliak,Match Report,,3,0,1
+62,Group stage,4.0,Wed,11/1/2017,20:00,Beşiktaş tr,1.3,1–1,1.0,fr Monaco,"39,346",Vodafone Arena,Paolo Tagliavento,Match Report,,1,1,0
+63,Group stage,4.0,Wed,11/1/2017,20:45 (22:45),Sevilla es,0.9,2–1,1.2,ru Spartak Moscow,"38,002",Estadio Ramón Sánchez Pizjuán,Artur Soares Dias,Match Report,,2,1,1
+64,Group stage,4.0,Wed,11/1/2017,20:45 (22:45),Dortmund de,2.8,1–1,0.6,cy APOEL FC,"64,500",Fußballpark BVB Hohenbuschei,Matej Jug,Match Report,,1,1,0
+65,Group stage,4.0,Wed,11/1/2017,20:45 (22:45),Napoli it,2.1,2–4,1.4,eng Manchester City,"44,483",Stadio San Paolo,Felix Brych,Match Report,,2,4,2
+66,Group stage,4.0,Wed,11/1/2017,21:45 (22:45),Shakhtar ua,2.6,3–1,1.0,nl Feyenoord,"24,570",Oblasny SportKomplex Metalist,Tasos Sidiropoulos,Match Report,,3,1,1
+68,Group stage,5.0,Tue,11/21/2017,19:45 (22:45),Manchester City eng,1.3,1–0,0.3,nl Feyenoord,"43,548",Etihad Stadium,Ivan Kružliak,Match Report,,1,0,1
+69,Group stage,5.0,Tue,11/21/2017,20:00,Beşiktaş tr,0.7,1–1,0.7,pt Porto,"36,919",Vodafone Arena,Antonio Matéu Lahoz,Match Report,,1,1,0
+70,Group stage,5.0,Tue,11/21/2017,20:00,Spartak Moscow ru,1.4,1–1,1.2,si NK Maribor,"42,920",Otkrytie Arena,William Collum,Match Report,,1,1,0
+71,Group stage,5.0,Tue,11/21/2017,20:45 (22:45),Sevilla es,1.9,3–3,2.3,eng Liverpool,"39,495",Estadio Ramón Sánchez Pizjuán,Felix Brych,Match Report,,3,3,0
+72,Group stage,5.0,Tue,11/21/2017,20:45 (22:45),Napoli it,1.9,3–0,0.5,ua Shakhtar,"10,573",Stadio San Paolo,Damir Skomina,Match Report,,3,0,1
+73,Group stage,5.0,Tue,11/21/2017,20:45 (22:45),Dortmund de,1.1,1–2,1.1,eng Tottenham,"65,849",Signal Iduna Park,Clément Turpin,Match Report,,1,2,2
+74,Group stage,5.0,Tue,11/21/2017,20:45 (22:45),Monaco fr,0.8,1–4,1.5,de RB Leipzig,"9,029",Stade Louis II.,Alberto Undiano,Match Report,,1,4,2
+75,Group stage,5.0,Tue,11/21/2017,21:45 (22:45),APOEL FC cy,0.5,0–6,3.7,es Real Madrid,"19,705",Neo GSP,Artur Soares Dias,Match Report,,0,6,2
+76,Group stage,5.0,Wed,11/22/2017,19:45 (22:45),Sporting CP pt,2.0,3–1,0.4,gr Olympiacos,"42,528",Estádio José Alvalade,Felix Zwayer,Match Report,,3,1,1
+77,Group stage,5.0,Wed,11/22/2017,20:00,CSKA Moscow ru,1.0,2–0,1.0,pt Benfica,"27,709",VEB Arena,Deniz Aytekin,Match Report,,2,0,1
+78,Group stage,5.0,Wed,11/22/2017,20:45 (22:45),Juventus it,0.5,0–0,0.9,es Barcelona,"40,876",Allianz Stadium,Milorad Mažić,Match Report,,0,0,0
+79,Group stage,5.0,Wed,11/22/2017,20:45 (22:45),Basel ch,1.1,1–0,1.5,eng Manchester Utd,"36,000",St. Jakob-Park,Daniele Orsato,Match Report,,1,0,1
+80,Group stage,5.0,Wed,11/22/2017,20:45 (22:45),Anderlecht be,1.8,1–2,2.2,de Bayern Munich,"19,753",Stade Constant Vanden Stock,Anthony Taylor,Match Report,,1,2,2
+81,Group stage,5.0,Wed,11/22/2017,20:45 (22:45),Paris S-G fr,2.8,7–1,0.3,sct Celtic,"46,288",Parc des Princes,Tasos Sidiropoulos,Match Report,,7,1,1
+82,Group stage,5.0,Wed,11/22/2017,20:45 (22:45),Atlético Madrid es,1.4,2–0,0.5,it Roma,"56,253",Estadio Wanda Metropolitano,Björn Kuipers,Match Report,,2,0,1
+83,Group stage,5.0,Wed,11/22/2017,21:00 (20:00),Qarabağ FK az,0.2,0–4,3.9,eng Chelsea,"67,100",Bakı Olimpiya Stadionu,Jorge de Sousa,Match Report,,0,4,2
+85,Group stage,6.0,Tue,12/5/2017,19:45 (22:45),Chelsea eng,2.9,1–1,1.0,es Atlético Madrid,"40,875",Stamford Bridge,Danny Makkelie,Match Report,,1,1,0
+86,Group stage,6.0,Tue,12/5/2017,19:45 (22:45),Celtic sct,0.8,0–1,0.7,be Anderlecht,"57,931",Celtic Park,Matej Jug,Match Report,,0,1,2
+87,Group stage,6.0,Tue,12/5/2017,19:45 (22:45),Manchester Utd eng,2.9,2–1,0.8,ru CSKA Moscow,"74,669",Old Trafford,Gianluca Rocchi,Match Report,,2,1,1
+88,Group stage,6.0,Tue,12/5/2017,19:45 (22:45),Benfica pt,1.4,0–2,1.4,ch Basel,"22,470",Estádio do Sport Lisboa e Benfica,Jesús Gil,Match Report,,0,2,2
+89,Group stage,6.0,Tue,12/5/2017,20:45 (22:45),Barcelona es,1.2,2–0,1.0,pt Sporting CP,"48,336",Camp Nou,Craig Thomson,Match Report,,2,0,1
+90,Group stage,6.0,Tue,12/5/2017,20:45 (22:45),Roma it,1.9,1–0,0.4,az Qarabağ FK,"34,258",Stadio Olimpico,Tobias Stieler,Match Report,,1,0,1
+91,Group stage,6.0,Tue,12/5/2017,20:45 (22:45),Bayern Munich de,1.8,3–1,1.9,fr Paris S-G,"70,000",Allianz Arena,Cüneyt Çakιr,Match Report,,3,1,1
+92,Group stage,6.0,Tue,12/5/2017,21:45 (22:45),Olympiacos gr,1.0,0–2,1.5,it Juventus,"29,567",Stadio Georgios Karaiskáki,David Fernández,Match Report,,0,2,2
+93,Group stage,6.0,Wed,12/6/2017,19:45 (22:45),Tottenham eng,2.3,3–0,0.6,cy APOEL FC,"42,679",Wembley Stadium,Slavko Vinčić,Match Report,,3,0,1
+94,Group stage,6.0,Wed,12/6/2017,19:45 (22:45),Porto pt,1.9,5–2,1.7,fr Monaco,"42,509",Estádio Do Dragão,Jonas Eriksson,Match Report,,5,2,1
+95,Group stage,6.0,Wed,12/6/2017,19:45 (22:45),Liverpool eng,4.2,7–0,0.6,ru Spartak Moscow,"48,779",Anfield,Szymon Marciniak,Match Report,,7,0,1
+96,Group stage,6.0,Wed,12/6/2017,20:45 (22:45),RB Leipzig de,3.0,1–2,1.8,tr Beşiktaş,"42,558",Red Bull Arena,Viktor Kassai,Match Report,,1,2,2
+97,Group stage,6.0,Wed,12/6/2017,20:45 (22:45),Feyenoord nl,0.7,2–1,1.3,it Napoli,"36,500",Stadion Feijenoord,Michael Oliver,Match Report,,2,1,1
+98,Group stage,6.0,Wed,12/6/2017,20:45 (22:45),NK Maribor si,0.8,1–1,1.7,es Sevilla,"11,976",Ljudski vrt,Ovidiu Hațegan,Match Report,,1,1,0
+99,Group stage,6.0,Wed,12/6/2017,20:45 (22:45),Real Madrid es,2.7,3–2,1.7,de Dortmund,"73,323",Estadio Santiago Bernabéu,Pavel Královec,Match Report,,3,2,1
+100,Group stage,6.0,Wed,12/6/2017,21:45 (22:45),Shakhtar ua,1.7,2–1,1.7,eng Manchester City,"33,154",Oblasny SportKomplex Metalist,Benoît Bastien,Match Report,,2,1,1
+102,Round of 16,,Tue,2/13/2018,20:45 (22:45),Basel ch,1.0,0–4,0.7,eng Manchester City,"36,000",St. Jakob-Park,Jonas Eriksson,Match Report,Leg 1 of 2,0,4,2
+103,Round of 16,,Tue,2/13/2018,20:45 (22:45),Juventus it,2.5,2–2,1.8,eng Tottenham,"41,232",Allianz Stadium,Felix Brych,Match Report,Leg 1 of 2,2,2,0
+104,Round of 16,,Wed,2/14/2018,19:45 (22:45),Porto pt,0.5,0–5,2.6,eng Liverpool,"47,718",Estádio Do Dragão,Daniele Orsato,Match Report,Leg 1 of 2,0,5,2
+105,Round of 16,,Wed,2/14/2018,20:45 (22:45),Real Madrid es,2.4,3–1,1.0,fr Paris S-G,"78,158",Estadio Ramón Sánchez Pizjuán,Gianluca Rocchi,Match Report,Leg 1 of 2,3,1,1
+106,Round of 16,,Tue,2/20/2018,19:45 (22:45),Chelsea eng,0.5,1–1,0.6,es Barcelona,"37,741",Stamford Bridge,Cüneyt Çakιr,Match Report,Leg 1 of 2,1,1,0
+107,Round of 16,,Tue,2/20/2018,20:45 (22:45),Bayern Munich de,4.9,5–0,0.3,tr Beşiktaş,"70,000",Allianz Arena,Ovidiu Hațegan,Match Report,Leg 1 of 2,5,0,1
+108,Round of 16,,Wed,2/21/2018,20:45 (22:45),Sevilla es,2.0,0–0,0.7,eng Manchester Utd,"39,725",Estadio Ramón Sánchez Pizjuán,Clément Turpin,Match Report,Leg 1 of 2,0,0,0
+109,Round of 16,,Wed,2/21/2018,21:45 (22:45),Shakhtar ua,1.7,2–1,1.8,it Roma,"35,124",Oblasny SportKomplex Metalist,William Collum,Match Report,Leg 1 of 2,2,1,1
+110,Round of 16,,Tue,3/6/2018,19:45 (22:45),Liverpool eng,1.6,0–0,0.6,pt Porto,"48,768",Anfield,Felix Zwayer,Match Report,Leg 2 of 2; Liverpool won,0,0,0
+111,Round of 16,,Tue,3/6/2018,20:45 (22:45),Paris S-G fr,1.1,1–2,2.2,es Real Madrid,"46,585",Parc des Princes,Felix Brych,Match Report,Leg 2 of 2; Real Madrid won,1,2,2
+112,Round of 16,,Wed,3/7/2018,19:45 (22:45),Tottenham eng,1.7,1–2,1.5,it Juventus,"84,010",Wembley Stadium,Szymon Marciniak,Match Report,Leg 2 of 2; Juventus won,1,2,2
+113,Round of 16,,Wed,3/7/2018,19:45 (22:45),Manchester City eng,1.6,1–2,0.6,ch Basel,"49,411",Etihad Stadium,Pavel Královec,Match Report,Leg 2 of 2; Manchester City won,1,2,2
+114,Round of 16,,Tue,3/13/2018,19:45 (22:45),Manchester Utd eng,1.9,1–2,1.7,es Sevilla,"74,909",Old Trafford,Danny Makkelie,Match Report,Leg 2 of 2; Sevilla won,1,2,2
+115,Round of 16,,Tue,3/13/2018,20:45 (22:45),Roma it,0.7,1–0,0.2,ua Shakhtar,"47,693",Stadio Olimpico,Alberto Undiano,Match Report,Leg 2 of 2; Roma won,1,0,1
+116,Round of 16,,Wed,3/14/2018,20:00,Beşiktaş tr,1.2,1–3,2.1,de Bayern Munich,"36,885",Vodafone Arena,Michael Oliver,Match Report,Leg 2 of 2; Bayern Munich won,1,3,2
+117,Round of 16,,Wed,3/14/2018,20:45 (22:45),Barcelona es,1.0,3–0,0.7,eng Chelsea,"97,183",Camp Nou,Damir Skomina,Match Report,Leg 2 of 2; Barcelona won,3,0,1
+118,Quarter-finals,,Tue,4/3/2018,20:45 (21:45),Sevilla es,0.9,1–2,1.4,de Bayern Munich,"40,635",Estadio Ramón Sánchez Pizjuán,Daniele Orsato,Match Report,Leg 1 of 2,1,2,2
+119,Quarter-finals,,Tue,4/3/2018,20:45 (21:45),Juventus it,1.6,0–3,3.1,es Real Madrid,"40,849",Allianz Stadium,Cüneyt Çakιr,Match Report,Leg 1 of 2,0,3,2
+120,Quarter-finals,,Wed,4/4/2018,19:45 (21:45),Liverpool eng,1.6,3–0,0.6,eng Manchester City,"50,685",Anfield,Felix Brych,Match Report,Leg 1 of 2,3,0,1
+121,Quarter-finals,,Wed,4/4/2018,20:45 (21:45),Barcelona es,1.9,4–1,1.7,it Roma,"90,106",Camp Nou,Danny Makkelie,Match Report,Leg 1 of 2,4,1,1
+122,Quarter-finals,,Tue,4/10/2018,19:45 (21:45),Manchester City eng,1.2,1–2,0.8,eng Liverpool,"53,461",Etihad Stadium,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Liverpool won,1,2,2
+123,Quarter-finals,,Tue,4/10/2018,20:45 (21:45),Roma it,2.7,3–0,0.9,es Barcelona,"56,580",Stadio Olimpico,Clément Turpin,Match Report,Leg 2 of 2; Roma won,3,0,1
+124,Quarter-finals,,Wed,4/11/2018,20:45 (21:45),Bayern Munich de,1.2,0–0,0.6,es Sevilla,"70,000",Allianz Arena,William Collum,Match Report,Leg 2 of 2; Bayern Munich won,0,0,0
+125,Quarter-finals,,Wed,4/11/2018,20:45 (21:45),Real Madrid es,2.7,1–3,2.7,it Juventus,"75,796",Estadio Santiago Bernabéu,Michael Oliver,Match Report,Leg 2 of 2; Real Madrid won,1,3,2
+126,Semi-finals,,Tue,4/24/2018,19:45 (21:45),Liverpool eng,3.7,5–2,1.9,it Roma,"51,236",Anfield,Felix Brych,Match Report,Leg 1 of 2,5,2,1
+127,Semi-finals,,Wed,4/25/2018,20:45 (21:45),Bayern Munich de,1.9,1–2,0.7,es Real Madrid,"70,000",Allianz Arena,Björn Kuipers,Match Report,Leg 1 of 2,1,2,2
+128,Semi-finals,,Tue,5/1/2018,20:45 (21:45),Real Madrid es,1.8,2–2,3.0,de Bayern Munich,"77,459",Estadio Santiago Bernabéu,Cüneyt Çakιr,Match Report,Leg 2 of 2; Real Madrid won,2,2,0
+129,Semi-finals,,Wed,5/2/2018,20:45 (21:45),Roma it,2.4,4–2,1.6,eng Liverpool,"61,889",Stadio Olimpico,Damir Skomina,Match Report,Leg 2 of 2; Liverpool won,4,2,1
+130,Final,,Sat,5/26/2018,21:45,Real Madrid es,1.5,3–1,1.9,eng Liverpool,"61,561",NSK Olimpijs'kyj (Neutral Site),Milorad Mažić,Match Report,,3,1,1
+0,Group stage,1.0,Tue,9/18/2018,18:55 (19:55),Barcelona es,1.5,4–0,0.7,nl PSV Eindhoven,"73,462",Camp Nou,Tasos Sidiropoulos,Match Report,,4,0,1
+1,Group stage,1.0,Tue,9/18/2018,18:55 (19:55),Inter it,1.2,2–1,0.8,eng Tottenham,"64,123",Stadio Giuseppe Meazza,Ruddy Buquet,Match Report,,2,1,1
+2,Group stage,1.0,Tue,9/18/2018,20:00 (22:00),Liverpool eng,2.3,3–2,0.8,fr Paris S-G,"52,478",Anfield,Baris Şimşek,Match Report,,3,2,1
+3,Group stage,1.0,Tue,9/18/2018,21:00 (22:00),Red Star rs,0.2,0–0,1.6,it Napoli,"49,112",Stadion Rajko Mitić,Tomasz Musiał,Match Report,,0,0,0
+4,Group stage,1.0,Tue,9/18/2018,21:00 (22:00),Club Brugge be,0.6,0–1,1.0,de Dortmund,"25,181",Jan Breydelstadion,Danny Makkelie,Match Report,,0,1,2
+5,Group stage,1.0,Tue,9/18/2018,21:00 (22:00),Monaco fr,0.7,1–2,0.9,es Atlético Madrid,"10,575",Stade Louis II.,William Collum,Match Report,,1,2,2
+6,Group stage,1.0,Tue,9/18/2018,21:00 (22:00),Schalke 04 de,0.9,1–1,2.2,pt Porto,"45,755",Veltins-Arena,Ricardo de Burgos,Match Report,,1,1,0
+7,Group stage,1.0,Tue,9/18/2018,22:00,Galatasaray tr,1.8,3–0,0.9,ru Loko Moscow,"43,542",Türk Telekom Arena,Luca Banti,Match Report,,3,0,1
+8,Group stage,1.0,Wed,9/19/2018,18:55 (19:55),Ajax nl,1.7,3–0,0.4,gr AEK Athens,"52,285",Johan Cruyff ArenA,Carlos del Cerro,Match Report,,3,0,1
+9,Group stage,1.0,Wed,9/19/2018,19:55,Shakhtar ua,0.6,2–2,1.8,de Hoffenheim,"28,336",Oblasny SportKomplex Metalist,Jakob Kehlet,Match Report,,2,2,0
+10,Group stage,1.0,Wed,9/19/2018,20:00 (22:00),Manchester City eng,1.2,1–2,0.8,fr Lyon,"40,111",Etihad Stadium,Daniele Orsato,Match Report,,1,2,2
+11,Group stage,1.0,Wed,9/19/2018,20:00 (22:00),Benfica pt,0.7,0–2,2.4,de Bayern Munich,"60,274",Estádio do Sport Lisboa e Benfica,Antonio Matéu Lahoz,Match Report,,0,2,2
+12,Group stage,1.0,Wed,9/19/2018,21:00 (22:00),Valencia es,2.0,0–2,3.7,it Juventus,"46,067",Estadio de Mestalla,Felix Brych,Match Report,,0,2,2
+13,Group stage,1.0,Wed,9/19/2018,21:00 (22:00),Real Madrid es,3.5,3–0,0.6,it Roma,"69,251",Estadio Santiago Bernabéu,Björn Kuipers,Match Report,,3,0,1
+14,Group stage,1.0,Wed,9/19/2018,21:00 (22:00),Young Boys ch,1.7,0–3,2.0,eng Manchester Utd,"31,120",Stade de Suisse Wankdorf Bern,Deniz Aytekin,Match Report,,0,3,2
+15,Group stage,1.0,Wed,9/19/2018,21:00 (22:00),Viktoria Plzeň cz,1.5,2–2,1.7,ru CSKA Moscow,"11,312",Doosan Arena,Benoît Bastien,Match Report,,2,2,0
+17,Group stage,2.0,Tue,10/2/2018,18:55 (19:55),Hoffenheim de,0.6,1–2,2.2,eng Manchester City,"24,851",PreZero Arena,Matej Jug,Match Report,,1,2,2
+18,Group stage,2.0,Tue,10/2/2018,18:55 (19:55),Juventus it,3.3,3–0,0.2,ch Young Boys,"40,961",Allianz Stadium,Sergey Karasev,Match Report,,3,0,1
+19,Group stage,2.0,Tue,10/2/2018,20:00 (22:00),Manchester Utd eng,0.9,0–0,0.4,es Valencia,"73,569",Old Trafford,Slavko Vinčič,Match Report,,0,0,0
+20,Group stage,2.0,Tue,10/2/2018,21:00 (22:00),Bayern Munich de,1.5,1–1,1.2,nl Ajax,"70,000",Allianz Arena,Pavel Královec,Match Report,,1,1,0
+21,Group stage,2.0,Tue,10/2/2018,21:00 (22:00),Lyon fr,2.8,2–2,1.6,ua Shakhtar,,Groupama OL Academy Décines-Charpieu,Aleksandrs Golubevs,Match Report,,2,2,0
+22,Group stage,2.0,Tue,10/2/2018,21:00 (22:00),Roma it,3.1,5–0,0.3,cz Viktoria Plzeň,"41,243",Stadio Olimpico,Paweł Raczkowski,Match Report,,5,0,1
+23,Group stage,2.0,Tue,10/2/2018,22:00,CSKA Moscow ru,0.4,1–0,2.2,es Real Madrid,"71,811",VEB Arena,Ovidiu Hațegan,Match Report,,1,0,1
+24,Group stage,2.0,Tue,10/2/2018,22:00,AEK Athens gr,2.8,2–3,1.2,pt Benfica,"31,154",Olympiako Stadio Spyros Louis,Orel Grinfeeld,Match Report,,2,3,2
+25,Group stage,2.0,Wed,10/3/2018,18:55 (19:55),Paris S-G fr,5.4,6–1,0.3,rs Red Star,"39,979",Parc des Princes,Artur Dias,Match Report,,6,1,1
+26,Group stage,2.0,Wed,10/3/2018,19:55,Loko Moscow ru,0.7,0–1,1.0,de Schalke 04,"21,471",RZD Arena,Anthony Taylor,Match Report,,0,1,2
+27,Group stage,2.0,Wed,10/3/2018,20:00 (22:00),Porto pt,1.8,1–0,1.5,tr Galatasaray,"42,711",Estádio Do Dragão,Michael Oliver,Match Report,,1,0,1
+28,Group stage,2.0,Wed,10/3/2018,20:00 (22:00),Tottenham eng,0.5,2–4,1.4,es Barcelona,"82,137",Wembley Stadium,Tobias Stieler,Match Report,,2,4,2
+29,Group stage,2.0,Wed,10/3/2018,21:00 (22:00),Dortmund de,3.2,3–0,0.5,fr Monaco,"66,099",Signal Iduna Park,Aliaksei Kulbakou,Match Report,,3,0,1
+30,Group stage,2.0,Wed,10/3/2018,21:00 (22:00),PSV Eindhoven nl,0.7,1–2,2.6,it Inter,"34,750",Philips Stadion,Danilo Grujić,Match Report,,1,2,2
+31,Group stage,2.0,Wed,10/3/2018,21:00 (22:00),Napoli it,1.9,1–0,0.1,eng Liverpool,"37,057",Stadio San Paolo,Sándor Andó-Szabó,Match Report,,1,0,1
+32,Group stage,2.0,Wed,10/3/2018,21:00 (22:00),Atlético Madrid es,1.8,3–1,0.6,be Club Brugge,"55,742",Estadio Wanda Metropolitano,Filip Glova,Match Report,,3,1,1
+34,Group stage,3.0,Tue,10/23/2018,18:55 (19:55),Young Boys ch,1.9,1–1,0.9,es Valencia,"31,120",Stade de Suisse Wankdorf Bern,Aleksandrs Anufrijevs,Match Report,,1,1,0
+35,Group stage,3.0,Tue,10/23/2018,19:55,AEK Athens gr,0.3,0–2,2.3,de Bayern Munich,"61,221",Olympiako Stadio Spyros Louis,Aliaksei Kulbakou,Match Report,,0,2,2
+36,Group stage,3.0,Tue,10/23/2018,20:00 (22:00),Manchester Utd eng,0.3,0–1,1.3,it Juventus,"73,946",Old Trafford,Danilo Grujić,Match Report,,0,1,2
+37,Group stage,3.0,Tue,10/23/2018,21:00 (22:00),Real Madrid es,2.6,2–1,1.6,cz Viktoria Plzeň,"67,356",Estadio Santiago Bernabéu,Orel Grinfeeld,Match Report,,2,1,1
+38,Group stage,3.0,Tue,10/23/2018,21:00 (22:00),Roma it,2.3,3–0,0.5,ru CSKA Moscow,"46,005",Stadio Olimpico,Tasos Sidiropoulos,Match Report,,3,0,1
+39,Group stage,3.0,Tue,10/23/2018,21:00 (22:00),Hoffenheim de,4.1,3–3,1.5,fr Lyon,"24,144",PreZero Arena,Alberto Undiano,Match Report,,3,3,0
+40,Group stage,3.0,Tue,10/23/2018,21:00 (22:00),Ajax nl,1.5,1–0,0.7,pt Benfica,"52,489",Johan Cruyff ArenA,Ruddy Buquet,Match Report,,1,0,1
+41,Group stage,3.0,Tue,10/23/2018,22:00,Shakhtar ua,1.1,0–3,2.6,eng Manchester City,"37,106",Oblasny SportKomplex Metalist,Carlos del Cerro,Match Report,,0,3,2
+42,Group stage,3.0,Wed,10/24/2018,18:55 (19:55),Club Brugge be,1.5,1–1,0.8,fr Monaco,"23,957",Jan Breydelstadion,Michael Oliver,Match Report,,1,1,0
+43,Group stage,3.0,Wed,10/24/2018,18:55 (19:55),PSV Eindhoven nl,0.9,2–2,2.0,eng Tottenham,"35,000",Philips Stadion,Slavko Vinčič,Match Report,,2,2,0
+44,Group stage,3.0,Wed,10/24/2018,20:00 (22:00),Liverpool eng,5.0,4–0,0.5,rs Red Star,"53,024",Anfield,Daniel Siebert,Match Report,,4,0,1
+45,Group stage,3.0,Wed,10/24/2018,21:00 (22:00),Barcelona es,2.2,2–0,1.0,it Inter,"86,290",Camp Nou,Ovidiu Hațegan,Match Report,,2,0,1
+46,Group stage,3.0,Wed,10/24/2018,21:00 (22:00),Paris S-G fr,1.1,2–2,1.7,it Napoli,"46,274",Parc des Princes,Tobias Stieler,Match Report,,2,2,0
+47,Group stage,3.0,Wed,10/24/2018,21:00 (22:00),Dortmund de,2.0,4–0,0.6,es Atlético Madrid,"66,099",Signal Iduna Park,Anthony Taylor,Match Report,,4,0,1
+48,Group stage,3.0,Wed,10/24/2018,22:00,Loko Moscow ru,2.1,1–3,1.5,pt Porto,"16,034",RZD Arena,John Beaton,Match Report,,1,3,2
+49,Group stage,3.0,Wed,10/24/2018,22:00,Galatasaray tr,0.6,0–0,2.2,de Schalke 04,"46,667",Türk Telekom Arena,Benoît Bastien,Match Report,,0,0,0
+51,Group stage,4.0,Tue,11/6/2018,18:55 (20:55),Red Star rs,0.7,2–0,2.2,eng Liverpool,"51,318",Stadion Rajko Mitić,Antonio Matéu Lahoz,Match Report,,2,0,1
+52,Group stage,4.0,Tue,11/6/2018,18:55 (20:55),Monaco fr,1.1,0–4,1.9,be Club Brugge,"8,347",Stade Louis II.,Hugo Miguel,Match Report,,0,4,2
+53,Group stage,4.0,Tue,11/6/2018,20:00 (23:00),Porto pt,1.4,4–1,0.7,ru Loko Moscow,"34,616",Estádio Do Dragão,Massimiliano Irrati,Match Report,,4,1,1
+54,Group stage,4.0,Tue,11/6/2018,20:00 (23:00),Tottenham eng,3.5,2–1,0.6,nl PSV Eindhoven,"46,588",Wembley Stadium,Filip Glova,Match Report,,2,1,1
+55,Group stage,4.0,Tue,11/6/2018,21:00 (23:00),Napoli it,2.0,1–1,1.3,fr Paris S-G,"55,489",Stadio San Paolo,Björn Kuipers,Match Report,,1,1,0
+56,Group stage,4.0,Tue,11/6/2018,21:00 (23:00),Schalke 04 de,1.5,2–0,0.7,tr Galatasaray,"54,740",Veltins-Arena,William Collum,Match Report,,2,0,1
+57,Group stage,4.0,Tue,11/6/2018,21:00 (23:00),Atlético Madrid es,1.5,2–0,0.6,de Dortmund,"61,023",Estadio Wanda Metropolitano,Daniele Orsato,Match Report,,2,0,1
+58,Group stage,4.0,Tue,11/6/2018,21:00 (23:00),Inter it,1.0,1–1,1.6,es Barcelona,"70,915",Stadio Giuseppe Meazza,Szymon Marciniak,Match Report,,1,1,0
+59,Group stage,4.0,Wed,11/7/2018,18:55 (20:55),Valencia es,1.8,3–1,1.0,ch Young Boys,"36,480",Estadio de Mestalla,István Kovács,Match Report,,3,1,1
+60,Group stage,4.0,Wed,11/7/2018,20:00 (23:00),Benfica pt,1.4,1–1,1.6,nl Ajax,"51,328",Estádio do Sport Lisboa e Benfica,Luca Banti,Match Report,,1,1,0
+61,Group stage,4.0,Wed,11/7/2018,20:00 (23:00),Manchester City eng,3.4,6–0,0.4,ua Shakhtar,"52,286",Etihad Stadium,Sándor Andó-Szabó,Match Report,,6,0,1
+62,Group stage,4.0,Wed,11/7/2018,20:55,CSKA Moscow ru,1.1,1–2,2.4,it Roma,"64,454",VEB Arena,Baris Şimşek,Match Report,,1,2,2
+63,Group stage,4.0,Wed,11/7/2018,21:00 (23:00),Viktoria Plzeň cz,0.5,0–5,1.6,es Real Madrid,"11,483",Doosan Arena,Deniz Aytekin,Match Report,,0,5,2
+64,Group stage,4.0,Wed,11/7/2018,21:00 (23:00),Bayern Munich de,2.7,2–0,0.4,gr AEK Athens,"70,000",Allianz Arena,Slavko Vinčič,Match Report,,2,0,1
+65,Group stage,4.0,Wed,11/7/2018,21:00 (23:00),Lyon fr,2.5,2–2,1.9,de Hoffenheim,"53,850",Groupama Stadium,Danny Makkelie,Match Report,,2,2,0
+66,Group stage,4.0,Wed,11/7/2018,21:00 (23:00),Juventus it,1.9,1–2,0.8,eng Manchester Utd,"41,470",Allianz Stadium,Ovidiu Hațegan,Match Report,,1,2,2
+68,Group stage,5.0,Tue,11/27/2018,19:55 (20:55),AEK Athens gr,0.4,0–2,2.2,nl Ajax,"25,756",Olympiako Stadio Spyros Louis,Michael Oliver,Match Report,,0,2,2
+69,Group stage,5.0,Tue,11/27/2018,20:00 (23:00),Manchester Utd eng,1.3,1–0,0.6,ch Young Boys,"72,876",Old Trafford,Felix Brych,Match Report,,1,0,1
+70,Group stage,5.0,Tue,11/27/2018,20:55,CSKA Moscow ru,2.2,1–2,2.0,cz Viktoria Plzeň,"52,892",VEB Arena,Jochem Kamphuis,Match Report,,1,2,2
+71,Group stage,5.0,Tue,11/27/2018,21:00 (23:00),Roma it,2.1,0–2,1.7,es Real Madrid,"59,124",Stadio Olimpico,Ruddy Buquet,Match Report,,0,2,2
+72,Group stage,5.0,Tue,11/27/2018,21:00 (23:00),Juventus it,1.8,1–0,0.3,es Valencia,"39,070",Allianz Stadium,William Collum,Match Report,,1,0,1
+73,Group stage,5.0,Tue,11/27/2018,21:00 (23:00),Lyon fr,2.3,2–2,1.0,eng Manchester City,"56,039",Groupama Stadium,Luca Banti,Match Report,,2,2,0
+74,Group stage,5.0,Tue,11/27/2018,21:00 (23:00),Hoffenheim de,1.3,2–3,2.1,ua Shakhtar,"22,920",PreZero Arena,Filip Glova,Match Report,,2,3,2
+75,Group stage,5.0,Tue,11/27/2018,21:00 (23:00),Bayern Munich de,1.9,5–1,0.5,pt Benfica,"70,000",Allianz Arena,Daniele Orsato,Match Report,,5,1,1
+76,Group stage,5.0,Wed,11/28/2018,18:55 (20:55),Atlético Madrid es,0.9,2–0,1.3,fr Monaco,"56,314",Estadio Wanda Metropolitano,Mattias Gestranius,Match Report,,2,0,1
+77,Group stage,5.0,Wed,11/28/2018,20:00 (23:00),Tottenham eng,1.3,1–0,1.0,it Inter,"57,132",Wembley Stadium,Baris Şimşek,Match Report,,1,0,1
+78,Group stage,5.0,Wed,11/28/2018,20:00 (23:00),Porto pt,1.6,3–1,0.9,de Schalke 04,"41,603",Estádio Do Dragão,Ovidiu Hațegan,Match Report,,3,1,1
+79,Group stage,5.0,Wed,11/28/2018,20:55,Loko Moscow ru,1.4,2–0,1.3,tr Galatasaray,"14,037",RZD Arena,Antonio Matéu Lahoz,Match Report,,2,0,1
+80,Group stage,5.0,Wed,11/28/2018,21:00 (23:00),Paris S-G fr,1.5,2–1,1.3,eng Liverpool,"46,880",Parc des Princes,Tomasz Musiał,Match Report,,2,1,1
+81,Group stage,5.0,Wed,11/28/2018,21:00 (23:00),Dortmund de,1.2,0–0,0.3,be Club Brugge,"66,099",Signal Iduna Park,Gediminas Mažeika,Match Report,,0,0,0
+82,Group stage,5.0,Wed,11/28/2018,21:00 (23:00),Napoli it,2.4,3–1,0.8,rs Red Star,"44,470",Stadio San Paolo,Ricardo de Burgos,Match Report,,3,1,1
+83,Group stage,5.0,Wed,11/28/2018,21:00 (23:00),PSV Eindhoven nl,3.0,1–2,2.4,es Barcelona,"34,600",Philips Stadion,Miroslav Zelinka,Match Report,,1,2,2
+85,Group stage,6.0,Tue,12/11/2018,18:55 (20:55),Schalke 04 de,2.1,1–0,0.7,ru Loko Moscow,"48,883",Veltins-Arena,Tasos Sidiropoulos,Match Report,,1,0,1
+86,Group stage,6.0,Tue,12/11/2018,20:00 (23:00),Liverpool eng,3.0,1–0,1.2,it Napoli,"52,015",Anfield,Damir Skomina,Match Report,,1,0,1
+87,Group stage,6.0,Tue,12/11/2018,20:55,Galatasaray tr,3.9,2–3,1.7,pt Porto,"33,972",Türk Telekom Arena,Aliaksei Kulbakou,Match Report,,2,3,2
+88,Group stage,6.0,Tue,12/11/2018,21:00 (23:00),Red Star rs,0.4,1–4,2.9,fr Paris S-G,"48,357",Stadion Rajko Mitić,William Collum,Match Report,,1,4,2
+89,Group stage,6.0,Tue,12/11/2018,21:00 (23:00),Monaco fr,0.6,0–2,2.6,de Dortmund,"8,731",Stade Louis II.,Craig Pawson,Match Report,,0,2,2
+90,Group stage,6.0,Tue,12/11/2018,21:00 (23:00),Club Brugge be,0.6,0–0,0.4,es Atlético Madrid,"25,645",Jan Breydelstadion,Davide Massa,Match Report,,0,0,0
+91,Group stage,6.0,Tue,12/11/2018,21:00 (23:00),Barcelona es,1.3,1–1,2.4,eng Tottenham,"69,961",Camp Nou,Milorad Mažić,Match Report,,1,1,0
+92,Group stage,6.0,Tue,12/11/2018,21:00 (23:00),Inter it,1.9,1–1,1.2,nl PSV Eindhoven,"62,533",Stadio Giuseppe Meazza,Felix Zwayer,Match Report,,1,1,0
+93,Group stage,6.0,Wed,12/12/2018,18:55 (20:55),Viktoria Plzeň cz,2.0,2–1,1.1,it Roma,"11,217",Doosan Arena,Anthony Taylor,Match Report,,2,1,1
+94,Group stage,6.0,Wed,12/12/2018,18:55 (20:55),Real Madrid es,1.3,0–3,0.9,ru CSKA Moscow,"51,636",Estadio Santiago Bernabéu,Hugo Miguel,Match Report,,0,3,2
+95,Group stage,6.0,Wed,12/12/2018,20:00 (23:00),Manchester City eng,3.4,2–1,1.4,de Hoffenheim,"50,411",Etihad Stadium,Andreas Ekberg,Match Report,,2,1,1
+96,Group stage,6.0,Wed,12/12/2018,20:00 (23:00),Benfica pt,1.8,1–0,0.4,gr AEK Athens,"33,633",Estádio do Sport Lisboa e Benfica,Bobby Madden,Match Report,,1,0,1
+97,Group stage,6.0,Wed,12/12/2018,21:00 (23:00),Valencia es,1.4,2–1,1.8,eng Manchester Utd,"36,544",Estadio de Mestalla,Georgi Kabakov,Match Report,,2,1,1
+98,Group stage,6.0,Wed,12/12/2018,21:00 (23:00),Young Boys ch,1.2,2–1,2.1,it Juventus,"30,114",Stade de Suisse Wankdorf Bern,Tobias Stieler,Match Report,,2,1,1
+99,Group stage,6.0,Wed,12/12/2018,21:00 (23:00),Ajax nl,3.0,3–3,3.1,de Bayern Munich,"52,244",Johan Cruyff ArenA,Clément Turpin,Match Report,,3,3,0
+100,Group stage,6.0,Wed,12/12/2018,22:00 (23:00),Shakhtar ua,1.1,1–1,1.3,fr Lyon,"38,916",NSK Olimpijs'kyj,Björn Kuipers,Match Report,,1,1,0
+102,Round of 16,,Tue,2/12/2019,20:00 (23:00),Manchester Utd eng,0.4,0–2,2.5,fr Paris S-G,"74,054",Old Trafford,Daniele Orsato,Match Report,Leg 1 of 2,0,2,2
+103,Round of 16,,Tue,2/12/2019,21:00 (23:00),Roma it,1.5,2–1,0.6,pt Porto,"51,727",Stadio Olimpico,Jochem Kamphuis,Match Report,Leg 1 of 2,2,1,1
+104,Round of 16,,Wed,2/13/2019,20:00 (23:00),Tottenham eng,1.8,3–0,0.3,de Dortmund,"71,214",Wembley Stadium,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,3,0,1
+105,Round of 16,,Wed,2/13/2019,21:00 (23:00),Ajax nl,2.2,1–2,1.5,es Real Madrid,"52,286",Johan Cruyff ArenA,Szymon Marciniak,Match Report,Leg 1 of 2,1,2,2
+106,Round of 16,,Tue,2/19/2019,20:00 (23:00),Liverpool eng,2.1,0–0,0.4,de Bayern Munich,"52,250",Anfield,Gianluca Rocchi,Match Report,Leg 1 of 2,0,0,0
+107,Round of 16,,Tue,2/19/2019,21:00 (23:00),Lyon fr,0.3,0–0,2.1,es Barcelona,"57,889",Groupama Stadium,Cüneyt Çakιr,Match Report,Leg 1 of 2,0,0,0
+108,Round of 16,,Wed,2/20/2019,21:00 (23:00),Schalke 04 de,1.8,2–3,1.6,eng Manchester City,"54,417",Veltins-Arena,Alejandro Hernández,Match Report,Leg 1 of 2,2,3,2
+109,Round of 16,,Wed,2/20/2019,21:00 (23:00),Atlético Madrid es,1.4,2–0,0.7,it Juventus,"67,193",Estadio Wanda Metropolitano,Felix Zwayer,Match Report,Leg 1 of 2,2,0,1
+110,Round of 16,,Tue,3/5/2019,21:00 (23:00),Real Madrid es,2.5,1–4,2.6,nl Ajax,"77,013",Estadio Santiago Bernabéu,Felix Brych,Match Report,Leg 2 of 2; Ajax won,1,4,2
+111,Round of 16,,Tue,3/5/2019,21:00 (23:00),Dortmund de,1.4,0–1,1.0,eng Tottenham,"66,099",Signal Iduna Park,Danny Makkelie,Match Report,Leg 2 of 2; Tottenham won,0,1,2
+112,Round of 16,,Wed,3/6/2019,20:00 (23:00),Porto pt,4.2,3–1,1.9,it Roma,"49,029",Estádio Do Dragão,Paweł Gil,Match Report,Leg 2 of 2; Porto won; Required Extra Time,3,1,1
+113,Round of 16,,Wed,3/6/2019,21:00 (23:00),Paris S-G fr,1.4,1–3,2.1,eng Manchester Utd,"47,441",Parc des Princes,Damir Skomina,Match Report,Leg 2 of 2; Manchester Utd won,1,3,2
+114,Round of 16,,Tue,3/12/2019,20:00 (23:00),Manchester City eng,3.7,7–0,0.1,de Schalke 04,"51,518",Etihad Stadium,Clément Turpin,Match Report,Leg 2 of 2; Manchester City won,7,0,1
+115,Round of 16,,Tue,3/12/2019,21:00 (23:00),Juventus it,2.5,3–0,0.4,es Atlético Madrid,"40,884",Allianz Stadium,Björn Kuipers,Match Report,Leg 2 of 2; Juventus won,3,0,1
+116,Round of 16,,Wed,3/13/2019,21:00 (23:00),Barcelona es,4.3,5–1,0.6,fr Lyon,"92,346",Camp Nou,Szymon Marciniak,Match Report,Leg 2 of 2; Barcelona won,5,1,1
+117,Round of 16,,Wed,3/13/2019,21:00 (23:00),Bayern Munich de,0.3,1–3,1.1,eng Liverpool,"68,145",Allianz Arena,Daniele Orsato,Match Report,Leg 2 of 2; Liverpool won,1,3,2
+118,Quarter-finals,,Tue,4/9/2019,20:00 (22:00),Liverpool eng,2.3,2–0,0.8,pt Porto,"52,465",Anfield,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2,0,1
+119,Quarter-finals,,Tue,4/9/2019,20:00 (22:00),Tottenham eng,0.9,1–0,1.3,eng Manchester City,"60,044",Tottenham Hotspur Stadium,Björn Kuipers,Match Report,Leg 1 of 2,1,0,1
+120,Quarter-finals,,Wed,4/10/2019,20:00 (22:00),Manchester Utd eng,0.5,0–1,1.1,es Barcelona,"74,093",Old Trafford,Gianluca Rocchi,Match Report,Leg 1 of 2,0,1,2
+121,Quarter-finals,,Wed,4/10/2019,21:00 (22:00),Ajax nl,1.2,1–1,0.7,it Juventus,"50,390",Johan Cruyff ArenA,Carlos del Cerro,Match Report,Leg 1 of 2,1,1,0
+122,Quarter-finals,,Tue,4/16/2019,21:00 (22:00),Juventus it,0.8,1–2,2.2,nl Ajax,"41,445",Allianz Stadium,Clément Turpin,Match Report,Leg 2 of 2; Ajax won,1,2,2
+123,Quarter-finals,,Tue,4/16/2019,21:00 (22:00),Barcelona es,1.4,3–0,0.4,eng Manchester Utd,"96,708",Camp Nou,Felix Brych,Match Report,Leg 2 of 2; Barcelona won,3,0,1
+124,Quarter-finals,,Wed,4/17/2019,20:00 (22:00),Porto pt,1.0,1–4,3.5,eng Liverpool,"49,117",Estádio Do Dragão,Danny Makkelie,Match Report,Leg 2 of 2; Liverpool won,1,4,2
+125,Quarter-finals,,Wed,4/17/2019,20:00 (22:00),Manchester City eng,2.5,4–3,0.7,eng Tottenham,"53,348",Etihad Stadium,Cüneyt Çakιr,Match Report,Leg 2 of 2; Tottenham won,4,3,1
+126,Semi-finals,,Tue,4/30/2019,20:00 (22:00),Tottenham eng,0.6,0–1,1.3,nl Ajax,"60,243",Tottenham Hotspur Stadium,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,0,1,2
+127,Semi-finals,,Wed,5/1/2019,21:00 (22:00),Barcelona es,2.4,3–0,1.8,eng Liverpool,"98,299",Camp Nou,Björn Kuipers,Match Report,Leg 1 of 2,3,0,1
+128,Semi-finals,,Tue,5/7/2019,20:00 (22:00),Liverpool eng,2.3,4–0,1.4,es Barcelona,"55,212",Anfield,Cüneyt Çakιr,Match Report,Leg 2 of 2; Liverpool won,4,0,1
+129,Semi-finals,,Wed,5/8/2019,21:00 (22:00),Ajax nl,1.6,2–3,4.2,eng Tottenham,"52,641",Johan Cruyff ArenA,Felix Brych,Match Report,Leg 2 of 2; Tottenham won,2,3,2
+130,Final,,Sat,6/1/2019,21:00 (22:00),Tottenham eng,0.8,0–2,1.3,eng Liverpool,"63,272",Estadio Wanda Metropolitano,Damir Skomina,Match Report,,0,2,2
+0,Group stage,1.0,Tue,9/6/2022,18:45 (19:45),Dinamo Zagreb hr,0.6,1–0,0.9,eng Chelsea,"20,607",Stadion Maksimir,István Kovács,Match Report,,1,0,1
+1,Group stage,1.0,Tue,9/6/2022,18:45 (19:45),Dortmund de,2.3,3–0,0.5,dk FC Copenhagen,"70,700",Signal Iduna Park,François Letexier,Match Report,,3,0,1
+2,Group stage,1.0,Tue,9/6/2022,20:00 (22:00),Celtic sct,1.4,0–3,1.9,es Real Madrid,"57,057",Celtic Park,Sandro Schärer,Match Report,,0,3,2
+3,Group stage,1.0,Tue,9/6/2022,20:00 (22:00),Benfica pt,1.1,2–0,0.2,il Maccabi Haifa,"55,130",Estádio do Sport Lisboa e Benfica,Andreas Ekberg,Match Report,,2,0,1
+4,Group stage,1.0,Tue,9/6/2022,21:00 (22:00),RB Salzburg at,1.3,1–1,0.9,it Milan,"29,520",Red Bull Arena,Srđan Jovanović,Match Report,,1,1,0
+5,Group stage,1.0,Tue,9/6/2022,21:00 (22:00),Sevilla es,0.3,0–4,3.6,eng Manchester City,"38,764",Estadio Ramón Sánchez Pizjuán,Davide Massa,Match Report,,0,4,2
+6,Group stage,1.0,Tue,9/6/2022,21:00 (22:00),RB Leipzig de,1.4,1–4,0.9,ua Shakhtar,"41,591",Red Bull Arena,João Pinheiro,Match Report,,1,4,2
+7,Group stage,1.0,Tue,9/6/2022,21:00 (22:00),Paris S-G fr,1.7,2–1,1.0,it Juventus,"47,415",Parc des Princes,Anthony Taylor,Match Report,,2,1,1
+8,Group stage,1.0,Wed,9/7/2022,18:45 (19:45),Ajax nl,2.1,4–0,0.1,sct Rangers,"52,862",Johan Cruyff ArenA,Tobias Stieler,Match Report,,4,0,1
+9,Group stage,1.0,Wed,9/7/2022,18:45 (19:45),Eint Frankfurt de,0.8,0–3,0.9,pt Sporting CP,"50,500",Deutsche Bank Park,Orel Grinfeeld,Match Report,,0,3,2
+10,Group stage,1.0,Wed,9/7/2022,20:00 (22:00),Tottenham eng,1.5,2–0,0.4,fr Marseille,"57,367",Tottenham Hotspur Stadium,Slavko Vinčič,Match Report,,2,0,1
+11,Group stage,1.0,Wed,9/7/2022,21:00 (22:00),Napoli it,4.0,4–1,1.0,eng Liverpool,"51,793",Stadio Diego Armando Maradona,Carlos del Cerro,Match Report,,4,1,1
+12,Group stage,1.0,Wed,9/7/2022,21:00 (22:00),Atlético Madrid es,0.8,2–1,2.0,pt Porto,"51,777",Estadio Cívitas Metropolitano,Szymon Marciniak,Match Report,,2,1,1
+13,Group stage,1.0,Wed,9/7/2022,21:00 (22:00),Barcelona es,2.3,5–1,0.8,cz Viktoria Plzeň,"77,411",Camp Nou,Lawrence Visser,Match Report,,5,1,1
+14,Group stage,1.0,Wed,9/7/2022,21:00 (22:00),Inter it,0.7,0–2,2.5,de Bayern Munich,"58,951",Stadio Giuseppe Meazza,Clément Turpin,Match Report,,0,2,2
+15,Group stage,1.0,Wed,9/7/2022,21:00 (22:00),Club Brugge be,0.5,1–0,1.0,de Leverkusen,"21,235",Jan Breydelstadion,Irfan Peljto,Match Report,,1,0,1
+17,Group stage,2.0,Tue,9/13/2022,17:45 (19:45),Sporting CP pt,0.9,2–0,0.9,eng Tottenham,"39,899",Estádio José Alvalade,Srđan Jovanović,Match Report,,2,0,1
+18,Group stage,2.0,Tue,9/13/2022,18:45 (19:45),Viktoria Plzeň cz,0.3,0–2,1.9,it Inter,"11,252",Doosan Arena,Sandro Schärer,Match Report,,0,2,2
+19,Group stage,2.0,Tue,9/13/2022,20:00 (22:00),Liverpool eng,2.2,2–1,0.3,nl Ajax,"52,387",Anfield,Artur Dias,Match Report,,2,1,1
+20,Group stage,2.0,Tue,9/13/2022,20:00 (22:00),Porto pt,1.0,0–4,2.7,be Club Brugge,"39,225",Estádio Do Dragão,Anastasios Sidiropoulos,Match Report,,0,4,2
+21,Group stage,2.0,Tue,9/13/2022,21:00 (22:00),Leverkusen de,1.8,2–0,0.9,es Atlético Madrid,"25,825",BayArena,Michael Oliver,Match Report,,2,0,1
+22,Group stage,2.0,Tue,9/13/2022,21:00 (22:00),Marseille fr,0.9,0–1,1.2,de Eint Frankfurt,"62,500",Orange Vélodrome,José Sánchez,Match Report,,0,1,2
+23,Group stage,2.0,Tue,9/13/2022,21:00 (22:00),Bayern Munich de,1.7,2–0,2.0,es Barcelona,"75,000",Allianz Arena,Danny Makkelie,Match Report,,2,0,1
+24,Group stage,2.0,Wed,9/14/2022,18:45 (19:45),Milan it,2.2,3–1,0.4,hr Dinamo Zagreb,"61,341",Stadio Giuseppe Meazza,Jesús Gil,Match Report,,3,1,1
+25,Group stage,2.0,Wed,9/14/2022,19:45,Shakhtar ua,0.4,1–1,1.5,sct Celtic,"20,697",Stadion Miejski Legii Warszawa im. Marsz...,Glenn Nyberg,Match Report,,1,1,0
+26,Group stage,2.0,Wed,9/14/2022,20:00 (22:00),Rangers sct,1.3,0–3,3.5,it Napoli,"50,121",Ibrox Stadium,Antonio Matéu Lahoz,Match Report,,0,3,2
+27,Group stage,2.0,Wed,9/14/2022,20:00 (22:00),Chelsea eng,1.2,1–1,0.4,at RB Salzburg,"38,818",Stamford Bridge,Ivan Kružliak,Match Report,,1,1,0
+28,Group stage,2.0,Wed,9/14/2022,20:00 (22:00),Manchester City eng,1.0,2–1,0.7,de Dortmund,"50,441",Etihad Stadium,Daniele Orsato,Match Report,,2,1,1
+29,Group stage,2.0,Wed,9/14/2022,21:00 (22:00),FC Copenhagen dk,0.7,0–0,0.8,es Sevilla,"34,910",Parken,Irfan Peljto,Match Report,,0,0,0
+30,Group stage,2.0,Wed,9/14/2022,21:00 (22:00),Juventus it,0.8,1–2,2.2,pt Benfica,"34,015",Allianz Stadium,Felix Zwayer,Match Report,,1,2,2
+31,Group stage,2.0,Wed,9/14/2022,21:00 (22:00),Real Madrid es,0.9,2–0,0.7,de RB Leipzig,"54,289",Estadio Santiago Bernabéu,Maurizio Mariani,Match Report,,2,0,1
+32,Group stage,2.0,Wed,9/14/2022,22:00,Maccabi Haifa il,1.0,1–3,1.8,fr Paris S-G,"30,412",Sammy Ofer Stadium,Daniel Siebert,Match Report,,1,3,2
+34,Group stage,3.0,Tue,10/4/2022,18:45 (19:45),Bayern Munich de,2.4,5–0,0.5,cz Viktoria Plzeň,"75,000",Allianz Arena,Nikola Dabanović,Match Report,,5,0,1
+35,Group stage,3.0,Tue,10/4/2022,18:55 (19:55),Marseille fr,2.5,4–1,0.4,pt Sporting CP,618,Orange Vélodrome,Davide Massa,Match Report,,4,1,1
+36,Group stage,3.0,Tue,10/4/2022,20:00 (22:00),Liverpool eng,2.9,2–0,0.4,sct Rangers,"49,512",Anfield,Clément Turpin,Match Report,,2,0,1
+37,Group stage,3.0,Tue,10/4/2022,20:00 (22:00),Porto pt,1.1,2–0,1.4,de Leverkusen,"42,399",Estádio Do Dragão,Anthony Taylor,Match Report,,2,0,1
+38,Group stage,3.0,Tue,10/4/2022,21:00 (22:00),Eint Frankfurt de,1.0,0–0,1.5,eng Tottenham,"50,500",Deutsche Bank Park,Daniele Orsato,Match Report,,0,0,0
+39,Group stage,3.0,Tue,10/4/2022,21:00 (22:00),Inter it,0.2,1–0,0.5,es Barcelona,"71,368",Stadio Giuseppe Meazza,Slavko Vinčič,Match Report,,1,0,1
+40,Group stage,3.0,Tue,10/4/2022,21:00 (22:00),Ajax nl,1.4,1–6,3.3,it Napoli,"52,896",Johan Cruyff ArenA,François Letexier,Match Report,,1,6,2
+41,Group stage,3.0,Tue,10/4/2022,21:00 (22:00),Club Brugge be,1.3,2–0,2.1,es Atlético Madrid,"25,667",Jan Breydelstadion,István Kovács,Match Report,,2,0,1
+42,Group stage,3.0,Wed,10/5/2022,18:45 (19:45),RB Leipzig de,2.2,3–1,0.9,sct Celtic,"45,228",Red Bull Arena,Espen Andreas Eskås,Match Report,,3,1,1
+43,Group stage,3.0,Wed,10/5/2022,18:45 (19:45),RB Salzburg at,2.2,1–0,0.7,hr Dinamo Zagreb,"28,864",Red Bull Arena,Andris Treimanis,Match Report,,1,0,1
+44,Group stage,3.0,Wed,10/5/2022,20:00 (22:00),Chelsea eng,1.1,3–0,0.4,it Milan,"39,537",Stamford Bridge,Danny Makkelie,Match Report,,3,0,1
+45,Group stage,3.0,Wed,10/5/2022,20:00 (22:00),Benfica pt,1.4,1–1,1.0,fr Paris S-G,"62,295",Estádio do Sport Lisboa e Benfica,Jesús Gil,Match Report,,1,1,0
+46,Group stage,3.0,Wed,10/5/2022,20:00 (22:00),Manchester City eng,4.3,5–0,0.4,dk FC Copenhagen,"51,765",Etihad Stadium,Donatas Rumšas,Match Report,,5,0,1
+47,Group stage,3.0,Wed,10/5/2022,21:00 (22:00),Real Madrid es,3.4,2–1,0.8,ua Shakhtar,"56,011",Estadio Santiago Bernabéu,Ivan Kružliak,Match Report,,2,1,1
+48,Group stage,3.0,Wed,10/5/2022,21:00 (22:00),Sevilla es,2.0,1–4,2.5,de Dortmund,"34,598",Estadio Ramón Sánchez Pizjuán,Maurizio Mariani,Match Report,,1,4,2
+49,Group stage,3.0,Wed,10/5/2022,21:00 (22:00),Juventus it,2.3,3–1,2.0,il Maccabi Haifa,"28,498",Allianz Stadium,Sandro Schärer,Match Report,,3,1,1
+51,Group stage,4.0,Tue,10/11/2022,18:45 (19:45),FC Copenhagen dk,0.3,0–0,1.6,eng Manchester City,"35,447",Parken,Artur Dias,Match Report,,0,0,0
+52,Group stage,4.0,Tue,10/11/2022,19:45,Maccabi Haifa il,0.8,2–0,0.5,it Juventus,"30,074",Sammy Ofer Stadium,Antonio Matéu Lahoz,Match Report,,2,0,1
+53,Group stage,4.0,Tue,10/11/2022,20:00 (22:00),Celtic sct,2.0,0–2,1.7,de RB Leipzig,"57,565",Celtic Park,Halil Umut Meler,Match Report,,0,2,2
+54,Group stage,4.0,Tue,10/11/2022,21:00 (22:00),Dortmund de,0.4,1–1,0.8,es Sevilla,"81,000",Signal Iduna Park,Srđan Jovanović,Match Report,,1,1,0
+55,Group stage,4.0,Tue,10/11/2022,21:00 (22:00),Paris S-G fr,1.2,1–1,1.2,pt Benfica,"46,435",Parc des Princes,Michael Oliver,Match Report,,1,1,0
+56,Group stage,4.0,Tue,10/11/2022,21:00 (22:00),Milan it,0.4,0–2,2.2,eng Chelsea,"75,051",Stadio Giuseppe Meazza,Daniel Siebert,Match Report,,0,2,2
+57,Group stage,4.0,Tue,10/11/2022,21:00 (22:00),Dinamo Zagreb hr,0.9,1–1,1.3,at RB Salzburg,"20,779",Stadion Maksimir,Tobias Stieler,Match Report,,1,1,0
+58,Group stage,4.0,Tue,10/11/2022,22:00,Shakhtar ua,0.5,1–1,1.1,es Real Madrid,"29,030",Stadion Miejski Legii Warszawa im. Marsz...,Orel Grinfeeld,Match Report,,1,1,0
+59,Group stage,4.0,Wed,10/12/2022,18:45 (19:45),Napoli it,3.2,4–2,1.6,nl Ajax,"52,229",Stadio Diego Armando Maradona,Felix Zwayer,Match Report,,4,2,1
+60,Group stage,4.0,Wed,10/12/2022,18:45 (19:45),Atlético Madrid es,2.3,0–0,0.6,be Club Brugge,"60,810",Estadio Cívitas Metropolitano,Danny Makkelie,Match Report,,0,0,0
+61,Group stage,4.0,Wed,10/12/2022,20:00 (22:00),Sporting CP pt,0.3,0–2,2.8,fr Marseille,"38,126",Estádio José Alvalade,Alejandro Hernández,Match Report,,0,2,2
+62,Group stage,4.0,Wed,10/12/2022,20:00 (22:00),Rangers sct,0.5,1–7,2.2,eng Liverpool,"48,820",Ibrox Stadium,Slavko Vinčič,Match Report,,1,7,2
+63,Group stage,4.0,Wed,10/12/2022,20:00 (22:00),Tottenham eng,3.0,3–2,1.2,de Eint Frankfurt,"55,180",Tottenham Hotspur Stadium,Carlos del Cerro,Match Report,,3,2,1
+64,Group stage,4.0,Wed,10/12/2022,21:00 (22:00),Viktoria Plzeň cz,1.2,2–4,3.0,de Bayern Munich,"11,326",Doosan Arena,Bartosz Frankowski,Match Report,,2,4,2
+65,Group stage,4.0,Wed,10/12/2022,21:00 (22:00),Leverkusen de,2.2,0–3,1.8,pt Porto,"30,210",BayArena,István Kovács,Match Report,,0,3,2
+66,Group stage,4.0,Wed,10/12/2022,21:00 (22:00),Barcelona es,2.2,3–3,2.0,it Inter,"92,302",Camp Nou,Szymon Marciniak,Match Report,,3,3,0
+68,Group stage,5.0,Tue,10/25/2022,18:45 (19:45),Sevilla es,1.0,3–0,1.1,dk FC Copenhagen,"29,884",Estadio Ramón Sánchez Pizjuán,Benoît Bastien,Match Report,,3,0,1
+69,Group stage,5.0,Tue,10/25/2022,18:45 (19:45),RB Salzburg at,1.6,1–2,1.5,eng Chelsea,"29,520",Red Bull Arena,Sandro Schärer,Match Report,,1,2,2
+70,Group stage,5.0,Tue,10/25/2022,20:00 (22:00),Benfica pt,3.3,4–3,2.4,it Juventus,"60,131",Estádio do Sport Lisboa e Benfica,Srđan Jovanović,Match Report,,4,3,1
+71,Group stage,5.0,Tue,10/25/2022,20:00 (22:00),Celtic sct,1.4,1–1,0.8,ua Shakhtar,"57,478",Celtic Park,Serdar Gözübüyük,Match Report,,1,1,0
+72,Group stage,5.0,Tue,10/25/2022,21:00 (22:00),Paris S-G fr,2.6,7–2,0.8,il Maccabi Haifa,"46,435",Parc des Princes,Felix Zwayer,Match Report,,7,2,1
+73,Group stage,5.0,Tue,10/25/2022,21:00 (22:00),Dortmund de,1.2,0–0,1.2,eng Manchester City,"81,000",Signal Iduna Park,Davide Massa,Match Report,,0,0,0
+74,Group stage,5.0,Tue,10/25/2022,21:00 (22:00),RB Leipzig de,2.2,3–2,2.1,es Real Madrid,"45,228",Red Bull Arena,Daniele Orsato,Match Report,,3,2,1
+75,Group stage,5.0,Tue,10/25/2022,21:00 (22:00),Dinamo Zagreb hr,0.7,0–4,3.2,it Milan,"20,572",Stadion Maksimir,Szymon Marciniak,Match Report,,0,4,2
+76,Group stage,5.0,Wed,10/26/2022,18:45 (19:45),Club Brugge be,1.4,0–4,3.2,pt Porto,"26,144",Jan Breydelstadion,Michael Oliver,Match Report,,0,4,2
+77,Group stage,5.0,Wed,10/26/2022,18:45 (19:45),Inter it,3.2,4–0,0.1,cz Viktoria Plzeň,"71,849",Stadio Giuseppe Meazza,Andreas Ekberg,Match Report,,4,0,1
+78,Group stage,5.0,Wed,10/26/2022,20:00 (22:00),Tottenham eng,1.7,1–1,0.8,pt Sporting CP,"59,588",Tottenham Hotspur Stadium,Danny Makkelie,Match Report,,1,1,0
+79,Group stage,5.0,Wed,10/26/2022,21:00 (22:00),Eint Frankfurt de,1.1,2–1,0.7,fr Marseille,"48,700",Deutsche Bank Park,Jesús Gil,Match Report,,2,1,1
+80,Group stage,5.0,Wed,10/26/2022,21:00 (22:00),Atlético Madrid es,2.6,2–2,1.5,de Leverkusen,"63,803",Estadio Cívitas Metropolitano,Clément Turpin,Match Report,,2,2,0
+81,Group stage,5.0,Wed,10/26/2022,21:00 (22:00),Barcelona es,0.7,0–3,2.1,de Bayern Munich,"84,016",Camp Nou,Anthony Taylor,Match Report,,0,3,2
+82,Group stage,5.0,Wed,10/26/2022,21:00 (22:00),Ajax nl,1.2,0–3,1.6,eng Liverpool,"53,327",Johan Cruyff ArenA,José Sánchez,Match Report,,0,3,2
+83,Group stage,5.0,Wed,10/26/2022,21:00 (22:00),Napoli it,1.8,3–0,0.7,sct Rangers,"39,835",Stadio Diego Armando Maradona,Halil Umut Meler,Match Report,,3,0,1
+85,Group stage,6.0,Tue,11/1/2022,17:45 (20:45),Porto pt,2.7,2–1,0.8,es Atlético Madrid,"47,546",Estádio Do Dragão,Daniele Orsato,Match Report,,2,1,1
+86,Group stage,6.0,Tue,11/1/2022,18:45 (20:45),Leverkusen de,1.1,0–0,0.5,be Club Brugge,"30,210",BayArena,Maurizio Mariani,Match Report,,0,0,0
+87,Group stage,6.0,Tue,11/1/2022,20:00 (23:00),Liverpool eng,2.4,2–0,0.4,it Napoli,"52,077",Anfield,Tobias Stieler,Match Report,,2,0,1
+88,Group stage,6.0,Tue,11/1/2022,20:00 (23:00),Rangers sct,1.8,1–3,1.8,nl Ajax,"48,817",Ibrox Stadium,Glenn Nyberg,Match Report,,1,3,2
+89,Group stage,6.0,Tue,11/1/2022,20:00 (23:00),Sporting CP pt,0.5,1–2,1.2,de Eint Frankfurt,"41,744",Estádio José Alvalade,Slavko Vinčič,Match Report,,1,2,2
+90,Group stage,6.0,Tue,11/1/2022,21:00 (23:00),Marseille fr,1.4,1–2,0.6,eng Tottenham,"50,768",Orange Vélodrome,Szymon Marciniak,Match Report,,1,2,2
+91,Group stage,6.0,Tue,11/1/2022,21:00 (23:00),Bayern Munich de,1.5,2–0,0.7,it Inter,"75,000",Allianz Arena,Ivan Kružliak,Match Report,,2,0,1
+92,Group stage,6.0,Tue,11/1/2022,21:00 (23:00),Viktoria Plzeň cz,2.6,2–4,2.3,es Barcelona,"11,258",Doosan Arena,Radu Petrescu,Match Report,,2,4,2
+93,Group stage,6.0,Wed,11/2/2022,18:45 (20:45),Real Madrid es,3.8,5–1,2.1,sct Celtic,"52,511",Estadio Santiago Bernabéu,Stéphanie Frappart,Match Report,,5,1,1
+94,Group stage,6.0,Wed,11/2/2022,19:45 (20:45),Shakhtar ua,0.2,0–4,2.2,de RB Leipzig,"26,045",Stadion Miejski Legii Warszawa im. Marsz...,Michael Oliver,Match Report,,0,4,2
+95,Group stage,6.0,Wed,11/2/2022,20:00 (23:00),Manchester City eng,2.0,3–1,0.4,es Sevilla,"51,610",Etihad Stadium,Orel Grinfeeld,Match Report,,3,1,1
+96,Group stage,6.0,Wed,11/2/2022,20:00 (23:00),Chelsea eng,2.7,2–1,0.9,hr Dinamo Zagreb,"39,392",Stamford Bridge,François Letexier,Match Report,,2,1,1
+97,Group stage,6.0,Wed,11/2/2022,21:00 (23:00),FC Copenhagen dk,1.8,1–1,1.2,de Dortmund,"31,900",Parken,Əliyar Ağayev,Match Report,,1,1,0
+98,Group stage,6.0,Wed,11/2/2022,21:00 (23:00),Juventus it,1.6,1–2,0.5,fr Paris S-G,"41,089",Allianz Stadium,Carlos del Cerro,Match Report,,1,2,2
+99,Group stage,6.0,Wed,11/2/2022,21:00 (23:00),Milan it,1.8,4–0,1.6,at RB Salzburg,"74,292",Stadio Giuseppe Meazza,Antonio Matéu Lahoz,Match Report,,4,0,1
+100,Group stage,6.0,Wed,11/2/2022,22:00 (23:00),Maccabi Haifa il,1.6,1–6,1.5,pt Benfica,"30,464",Sammy Ofer Stadium,Anthony Taylor,Match Report,,1,6,2
+102,Round of 16,,Tue,2/14/2023,21:00 (23:00),Paris S-G fr,,,,de Bayern Munich,,Parc des Princes,,Head-to-Head,Leg 1 of 2,,,2
+103,Round of 16,,Tue,2/14/2023,21:00 (23:00),Milan it,,,,eng Tottenham,,Stadio Giuseppe Meazza,,Head-to-Head,Leg 1 of 2,,,2
+104,Round of 16,,Wed,2/15/2023,21:00 (23:00),Dortmund de,,,,eng Chelsea,,Signal Iduna Park,,Head-to-Head,Leg 1 of 2,,,2
+105,Round of 16,,Wed,2/15/2023,21:00 (23:00),Club Brugge be,,,,pt Benfica,,Jan Breydelstadion,,Head-to-Head,Leg 1 of 2,,,2
+106,Round of 16,,Tue,2/21/2023,20:00 (23:00),Liverpool eng,,,,es Real Madrid,,Anfield,,Head-to-Head,Leg 1 of 2,,,2
+107,Round of 16,,Tue,2/21/2023,21:00 (23:00),Eint Frankfurt de,,,,it Napoli,,Deutsche Bank Park,,Head-to-Head,Leg 1 of 2,,,2
+108,Round of 16,,Wed,2/22/2023,21:00 (23:00),RB Leipzig de,,,,eng Manchester City,,Red Bull Arena,,Head-to-Head,Leg 1 of 2,,,2
+109,Round of 16,,Wed,2/22/2023,21:00 (23:00),Inter it,,,,pt Porto,,Stadio Giuseppe Meazza,,Head-to-Head,Leg 1 of 2,,,2
+110,Round of 16,,Tue,3/7/2023,20:00 (23:00),Chelsea eng,,,,de Dortmund,,Stamford Bridge,,Head-to-Head,Leg 2 of 2,,,2
+111,Round of 16,,Tue,3/7/2023,20:00 (23:00),Benfica pt,,,,be Club Brugge,,Estádio do Sport Lisboa e Benfica,,Head-to-Head,Leg 2 of 2,,,2
+112,Round of 16,,Wed,3/8/2023,20:00 (23:00),Tottenham eng,,,,it Milan,,Tottenham Hotspur Stadium,,Head-to-Head,Leg 2 of 2,,,2
+113,Round of 16,,Wed,3/8/2023,21:00 (23:00),Bayern Munich de,,,,fr Paris S-G,,Allianz Arena,,Head-to-Head,Leg 2 of 2,,,2
+114,Round of 16,,Tue,3/14/2023,20:00 (23:00),Porto pt,,,,it Inter,,Estádio Do Dragão,,Head-to-Head,Leg 2 of 2,,,2
+115,Round of 16,,Tue,3/14/2023,20:00 (23:00),Manchester City eng,,,,de RB Leipzig,,Etihad Stadium,,Head-to-Head,Leg 2 of 2,,,2
+116,Round of 16,,Wed,3/15/2023,21:00 (23:00),Napoli it,,,,de Eint Frankfurt,,Stadio Diego Armando Maradona,,Head-to-Head,Leg 2 of 2,,,2
+117,Round of 16,,Wed,3/15/2023,21:00 (23:00),Real Madrid es,,,,eng Liverpool,,Estadio Santiago Bernabéu,,Head-to-Head,Leg 2 of 2,,,2
