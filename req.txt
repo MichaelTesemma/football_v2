@@ -37,6 +37,7 @@ h5py==3.7.0
 httpcore==0.16.3
 httpx==0.23.1
 idna==3.4
+imbalanced-learn==0.10.1
 importlib-metadata==5.2.0
 ipykernel==6.19.4
 ipython==8.7.0
@@ -111,6 +112,7 @@ scipy==1.9.3
 SecretStorage==3.3.3
 serverfiles==0.3.1
 six==1.16.0
+sklearn==0.0.post1
 sniffio==1.3.0
 stack-data==0.6.2
 tensorboard==2.11.0

@@ -29,6 +29,13 @@ df_10_output_name = 'prem_df_for_ml_10_v2.txt'
 df_3_output_name = 'prem_df_for_ml_3_v2.txt'
 df_2_output_name = 'prem_df_for_ml_2_v2.txt'
 df_4_output_name = 'prem_df_for_ml_4_v2.txt'
+df_1_output_name = 'prem_df_for_ml_1_v2.txt'
+df_6_output_name = 'prem_df_for_ml_6_v2.txt'
+df_7_output_name = 'prem_df_for_ml_7_v2.txt'
+df_8_output_name = 'prem_df_for_ml_8_v2.txt'
+df_9_output_name = 'prem_df_for_ml_9_v2.txt'
+
+
 
 
 
@@ -74,6 +81,21 @@ df_ml_2 = average_stats_df(2, team_list, team_fixture_id_dict, game_stats)
 
 #2 game sliding average.
 df_ml_4 = average_stats_df(4, team_list, team_fixture_id_dict, game_stats)
+
+#2 game sliding average.
+df_ml_1 = average_stats_df(1, team_list, team_fixture_id_dict, game_stats)
+
+#2 game sliding average.
+df_ml_6 = average_stats_df(6, team_list, team_fixture_id_dict, game_stats)
+
+#2 game sliding average.
+df_ml_7 = average_stats_df(7, team_list, team_fixture_id_dict, game_stats)
+
+#2 game sliding average.
+df_ml_8 = average_stats_df(8, team_list, team_fixture_id_dict, game_stats)
+
+#2 game sliding average.
+df_ml_9 = average_stats_df(9, team_list, team_fixture_id_dict, game_stats)
         
 #creating and saving the ml dataframe with a 5 game sliding average.
 df_for_ml_5_v2 = creating_ml_df(df_ml_5)
@@ -98,6 +120,26 @@ df_for_ml_4_v2 = creating_ml_df(df_ml_4)
 with open(f'/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/{df_4_output_name}', 'wb') as myFile:
     pickle.dump(df_for_ml_4_v2, myFile)
 
+df_for_ml_1_v2 = creating_ml_df(df_ml_1)
+with open(f'/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/{df_1_output_name}', 'wb') as myFile:
+    pickle.dump(df_for_ml_1_v2, myFile)
+
+df_for_ml_6_v2 = creating_ml_df(df_ml_6)
+with open(f'/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/{df_6_output_name}', 'wb') as myFile:
+    pickle.dump(df_for_ml_6_v2, myFile)
+
+df_for_ml_7_v2 = creating_ml_df(df_ml_7)
+with open(f'/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/{df_7_output_name}', 'wb') as myFile:
+    pickle.dump(df_for_ml_7_v2, myFile)
+
+df_for_ml_8_v2 = creating_ml_df(df_ml_8)
+with open(f'/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/{df_8_output_name}', 'wb') as myFile:
+    pickle.dump(df_for_ml_8_v2, myFile)
+
+df_for_ml_9_v2 = creating_ml_df(df_ml_9)
+with open(f'/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/{df_9_output_name}', 'wb') as myFile:
+    pickle.dump(df_for_ml_9_v2, myFile)
+
 
 #for Power BI
 df_for_ml_10_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v10.csv', index='False')
@@ -105,6 +147,13 @@ df_for_ml_5_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v5.csv'
 df_for_ml_2_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v2.csv', index='False')
 df_for_ml_3_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v3.csv', index='False')
 df_for_ml_4_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v4.csv', index='False')
+df_for_ml_1_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v1.csv', index='False')
+df_for_ml_6_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v6.csv', index='False')
+df_for_ml_7_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v7.csv', index='False')
+df_for_ml_8_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v8.csv', index='False')
+df_for_ml_9_v2.to_csv('prem_clean_fixtures_and_dataframes/df_for_powerbi_v9.csv', index='False')
+
+
 
 print('Done')
 

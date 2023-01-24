@@ -3,7 +3,7 @@ import tensorflow as tf
 import autokeras as ak
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
-from v2.model_v5 import x_train, y_train, x_test, y_test
+from model import x_train, y_train, x_test, y_test
 
 dataset_10 = pd.read_csv('v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v10.csv')
 dataset_5 = pd.read_csv('v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v5.csv')
