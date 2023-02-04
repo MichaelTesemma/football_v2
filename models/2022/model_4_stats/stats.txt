@@ -1,0 +1,28 @@
+Model number: 0
+
+Accuracy: 0.6153846153846154
+F1 Score: 0.614938080495356
+Precision: 0.6447811447811448
+Recall: 0.625
+
+Model number: 0
+
+Accuracy: 0.6176470588235294
+F1 Score: 0.6101307189542484
+Precision: 0.6838624338624338
+Recall: 0.6042735042735042
+
+Model number: 0
+
+Accuracy: 0.46875
+F1 Score: 0.2127659574468085
+Precision: 0.15625
+Recall: 0.3333333333333333
+
+Model number: 0
+
+Accuracy: 0.65625
+F1 Score: 0.4235006119951041
+Precision: 0.48290598290598297
+Recall: 0.4419306184012066
+

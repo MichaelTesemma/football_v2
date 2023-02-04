@@ -1,0 +1,7 @@
+Model number: 0
+
+Accuracy: 0.6153846153846154
+F1 Score: 0.614938080495356
+Precision: 0.6447811447811448
+Recall: 0.625
+
