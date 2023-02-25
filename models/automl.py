@@ -8,14 +8,14 @@ import time
 # df1 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v1.csv')
 df1 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v1.csv')
 df2 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/2022_df_for_powerbi_v2.csv')
-df3 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/2022_df_for_powerbi_v3.csv')
+df3 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v3.csv')
 df4 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v4.csv')
 df5 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v5.csv')
 df6 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v6.csv')
 df7 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/2022_df_for_powerbi_v7.csv')
 df8 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v8.csv')
 df9 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v9.csv')
-df10 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/2022_df_for_powerbi_v10.csv')
+df10 = pd.read_csv('/home/michael/Desktop/v2/prem_clean_fixtures_and_dataframes/df_for_powerbi_v10.csv')
 
 
 x1 = df1.drop(df1[['Fixture ID', 'Team Result Indicator', 'Opponent Result Indicator']], axis=1)
@@ -92,30 +92,25 @@ def auto_ml(folder1, folder2, folder3, x_train, y_train, x_test, y_test):
     y_train = y_train
     x_test = x_test
     y_test = y_test
-    # for i in range(5):
-    #     model = ak.StructuredDataClassifier(max_trials=80, seed=42, overwrite=True)
-    #     early_stopping = tf.keras.callbacks.EarlyStopping(monitor='val_loss', patience=250, restore_best_weights=True)
-    #     model.fit(x_train, y_train, validation_data=(x_test, y_test), batch_size=32, epochs=100000, callbacks=[early_stopping])
 
-    #     model = model.export_model()
+    for i in range(20):
+        model = ak.StructuredDataClassifier(max_trials=80, seed=42, overwrite=True)
+        early_stopping = tf.keras.callbacks.EarlyStopping(monitor='val_loss', patience=100, restore_best_weights=True)
+        model.fit(x_train, y_train, validation_data=(x_test, y_test), batch_size=8, epochs=100000, callbacks=[early_stopping])
 
-    #     print(model.summary())
-    #     model.save(f'{folder1}/{i}')
+        model = model.export_model()
 
-    # ak_model = ak.StructuredDataClassifier(seed=0)
-    model = ak.StructuredDataClassifier(max_trials=400, seed=42, overwrite=True)
-    early_stopping = tf.keras.callbacks.EarlyStopping(monitor='val_loss', patience=100, restore_best_weights=True)
-    model.fit(x_train, y_train, validation_data=(x_test, y_test), batch_size=16, epochs=100000, callbacks=[early_stopping])
+        print(model.summary())
+        model.save(f'{folder1}/{i}')
+        model.save(f'{folder2}/{i}')
 
-    model = model.export_model()
-
-    print(model.summary())
-    model.save(f'{folder1}/0')
 
     ak_model = ak.StructuredDataClassifier(seed=0)
 
+
     # fixed it buy calling adapt() and some magic i found on https://github.com/keras-team/autokeras/issues/1746
 
+# Don't forget to run this loop over the model before prediction
 
     # for i in range(len(listdir(folder1))):
     #     model = tf.keras.models.load_model(f"{folder1}/{i}",
@@ -124,20 +119,11 @@ def auto_ml(folder1, folder2, folder3, x_train, y_train, x_test, y_test):
     #     dataset, validation_data = ak_model._convert_to_dataset(
     #     x=x_train, y=y_train, validation_data=(x_test, y_test), batch_size=32)
 
-    #     ak_model.tuner.adapt(model, dataset)
+        # ak_model.tuner.adapt(model, dataset)
         
-    #     model.save(f"{folder2}/{i}", save_format="tf")
-    #     print(f'model number {i} is saved')
-    model = tf.keras.models.load_model(f"{folder1}/0",
-    custom_objects=ak.CUSTOM_OBJECTS)
+        # model.save(f"{folder2}/{i}", save_format="tf")
+        # print(f'model number {i} is saved')
 
-    dataset, validation_data = ak_model._convert_to_dataset(
-    x=x_train, y=y_train, validation_data=(x_test, y_test), batch_size=32)
-
-    ak_model.tuner.adapt(model, dataset)
-        
-    model.save(f"{folder2}/0", save_format="tf")
-    print(f'model number 0 is saved')
 
     # for i in range(len(listdir(folder2))):
     #     model = tf.keras.models.load_model(f"{folder2}/{i}",custom_objects=ak.CUSTOM_OBJECTS)
@@ -157,29 +143,15 @@ def auto_ml(folder1, folder2, folder3, x_train, y_train, x_test, y_test):
     #         f.write('F1 Score: ' + str(f1) + '\n')
     #         f.write('Precision: ' + str(precision) + '\n')
     #         f.write('Recall: ' + str(recall) + '\n' + '\n')
-    model = tf.keras.models.load_model(f"{folder2}/0",custom_objects=ak.CUSTOM_OBJECTS)
+
+# auto_ml('models/full/saved_model_5', 'models/full/ak_model_5', 'models/full/model_5_stats', x_train5, y_train5, x_test5, y_test5)
+# auto_ml('models/full/saved_model_10', 'models/full/ak_model_10', 'models/full/model_10_stats', x_train10, y_train10, x_test10, y_test10)
+auto_ml('models/full/saved_model_15', 'models/full/ak_model_15', 'models/full/model_15_stats', x_train10, y_train10, x_test10, y_test10)
+
+# auto_ml('models/full/saved_model_3', 'models/full/ak_model_3', 'models/full/model_3_stats', x_train3, y_train3, x_test3, y_test3)
 
 
-    y_pred = model.predict(x_test)
-    y_pred = y_pred.argmax(axis=-1)
 
-    acc = accuracy_score(y_test, y_pred)
-    f1 = f1_score(y_test, y_pred, average='macro')
-    precision = precision_score(y_test, y_pred, average='macro')
-    recall = recall_score(y_test, y_pred, average='macro')
-
-    with open(f'{folder3}/stats.txt', 'a') as f:
-        f.write('Model number: ' + str(50) + '\n' + '\n')
-        f.write('Accuracy: ' + str(acc) + '\n')
-        f.write('F1 Score: ' + str(f1) + '\n')
-        f.write('Precision: ' + str(precision) + '\n')
-        f.write('Recall: ' + str(recall) + '\n' + '\n')
-
-auto_ml('models/full/saved_model_9', 'models/full/ak_model_9', 'models/full/model_9_stats', x_train9, y_train9, x_test9, y_test9)
-auto_ml('models/full/saved_model_1', 'models/full/ak_model_1', 'models/full/model_1_stats', x_train1, y_train1, x_test1, y_test1)
-auto_ml('models/full/saved_model_5', 'models/full/ak_model_5', 'models/full/model_5_stats', x_train5, y_train5, x_test5, y_test5)
-auto_ml('models/full/saved_model_6', 'models/full/ak_model_6', 'models/full/model_6_stats', x_train6, y_train6, x_test6, y_test6)
-auto_ml('models/full/saved_model_8', 'models/full/ak_model_8', 'models/full/model_8_stats', x_train8, y_train8, x_test8, y_test8)
 
 
 
