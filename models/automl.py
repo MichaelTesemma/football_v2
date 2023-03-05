@@ -125,24 +125,7 @@ def auto_ml(folder1, folder2, folder3, x_train, y_train, x_test, y_test):
         # print(f'model number {i} is saved')
 
 
-    # for i in range(len(listdir(folder2))):
-    #     model = tf.keras.models.load_model(f"{folder2}/{i}",custom_objects=ak.CUSTOM_OBJECTS)
 
-
-    #     y_pred = model.predict(x_test)
-    #     y_pred = y_pred.argmax(axis=-1)
-
-    #     acc = accuracy_score(y_test, y_pred)
-    #     f1 = f1_score(y_test, y_pred, average='macro')
-    #     precision = precision_score(y_test, y_pred, average='macro')
-    #     recall = recall_score(y_test, y_pred, average='macro')
-
-    #     with open(f'{folder3}/stats.txt', 'a') as f:
-    #         f.write('Model number: ' + str(i) + '\n' + '\n')
-    #         f.write('Accuracy: ' + str(acc) + '\n')
-    #         f.write('F1 Score: ' + str(f1) + '\n')
-    #         f.write('Precision: ' + str(precision) + '\n')
-    #         f.write('Recall: ' + str(recall) + '\n' + '\n')
 
 # auto_ml('models/full/saved_model_5', 'models/full/ak_model_5', 'models/full/model_5_stats', x_train5, y_train5, x_test5, y_test5)
 # auto_ml('models/full/saved_model_10', 'models/full/ak_model_10', 'models/full/model_10_stats', x_train10, y_train10, x_test10, y_test10)
